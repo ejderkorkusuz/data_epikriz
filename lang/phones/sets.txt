@@ -43,3 +43,6 @@ z_B z_E z_I z_S
 2_B 2_E 2_I 2_S
 1:_B 1:_E 1:_I 1:_S
 2:_B 2:_E 2:_I 2:_S
+N_B N_E N_I N_S
+1j_B 1j_E 1j_I 1j_S
+a::_B a::_E a::_I a::_S

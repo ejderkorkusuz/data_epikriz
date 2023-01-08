@@ -43,3 +43,6 @@ shared split 1_B 1_E 1_I 1_S
 shared split 2_B 2_E 2_I 2_S
 shared split 1:_B 1:_E 1:_I 1:_S
 shared split 2:_B 2:_E 2:_I 2:_S
+shared split N_B N_E N_I N_S
+shared split 1j_B 1j_E 1j_I 1j_S
+shared split a::_B a::_E a::_I a::_S

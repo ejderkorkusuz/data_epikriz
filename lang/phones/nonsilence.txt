@@ -170,3 +170,15 @@ z_S
 2:_E
 2:_I
 2:_S
+N_B
+N_E
+N_I
+N_S
+1j_B
+1j_E
+1j_I
+1j_S
+a::_B
+a::_E
+a::_I
+a::_S

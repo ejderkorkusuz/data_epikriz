@@ -180,3 +180,15 @@ z_S singleton
 2:_E end
 2:_I internal
 2:_S singleton
+N_B begin
+N_E end
+N_I internal
+N_S singleton
+1j_B begin
+1j_E end
+1j_I internal
+1j_S singleton
+a::_B begin
+a::_E end
+a::_I internal
+a::_S singleton
