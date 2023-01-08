@@ -1,0 +1,901 @@
+!SIL 1.0	SIL
+<UNK> 1.0	SPN
+sol 1.0	s o 5
+sol 1.0	s o l
+akciğer 1.0	a k dZ i G e r
+akciğer 1.0	a k dZ i j e r
+üst 1.0	y s t
+lobda 1.0	5 o b d a
+büyüğü 1.0	b y j y:
+büyüğü 1.0	b y j y G y
+iki 1.0	i c i
+cm 1.0	s a n t i m
+cm 1.0	s a n t i m e t r e
+çapında 1.0	tS a p 1 n d a
+çok 1.0	tS o k
+sayıda 1.0	s a j 1 d a
+nodüler 1.0	n o d y 5 e r
+lezyon 1.0	5 e z j o n
+hastanın 1.0	h a s t a n 1 n
+kontrol 1.0	k o n t r o l
+grafisinde 1.0	gj 1 r a f i s i n d e
+radyolojik 1.0	r a d j o 5 o Z i k
+regresyon 1.0	r e gj r e s j o n
+eğilimi 1.0	e G i l i m i
+eğilimi 1.0	e j i l i m i
+eğilimi 1.0	i: l i m i
+sağlandığı 1.0	s a: 5 a n d 1:
+sağlandığı 1.0	s a G 5 a n d 1 G 1
+tespit 1.0	t e s p i t
+edildi 1.0	e d i l d i
+ileri 1.0	i l e r i
+takibine 1.0	t a c i b i n e
+ve 1.0	v e
+tedavisine 1.0	t e d a v i s i n e
+yoğun 1.0	j o G u n
+yoğun 1.0	j o: u n
+bakım 1.0	b a k 1 m
+koşullarında 1.0	k o S u 5 5 a r 1 n d a
+devam 1.0	d e v a m
+devam 1.0	d e v a: m
+edilmesi 1.0	e d i l m e s i
+daha 1.0	d a h a
+uygun 1.0	u j gj u n
+olacağı 1.0	o 5 a dZ a:
+olacağı 1.0	o 5 a dZ a 1
+olacağı 1.0	o 5 a dZ a G 1
+için 1.0	i tS i n
+nakil 1.0	n a c i l
+alındı 1.0	a 5 1 n d 1
+lob 1.0	5 o b
+apikoposterior 1.0	a p i k o p o s t e r i o r
+apikoposterior 1.0	a p i k o p o s t e r i j o r
+segmentte 1.0	s e gj m e n t t e
+sekel 1.0	s e k e 5
+değişiklikler 1.0	d e G i S i c l i c l e r
+değişiklikler 1.0	d e j i S i c l i c l e r
+değişiklikler 1.0	d i: S i c l i c l e r
+kalsifikasyonlar 1.0	k a 5 s i f i k a s j o n 5 a r
+her 1.0	h e r
+parankiminde 1.0	p a r a n k i m i n d e
+subplevral 1.0	s u b p i 5 e v r a 5
+subplevral 1.0	s a p p i 5 e v r a 5
+alanlarda 1.0	a 5 a n 5 a r d a
+alanlarda 1.0	a 5 a n n a r d a
+retiküler 1.0	r e t i k y 5 e r
+dansite 1.0	d a n s i t e
+artışları 1.0	a r t 1 S 5 a r 1
+izlenmiştir 1.0	i z l e n m i S t i r
+temel 1.0	t e m e l
+kan 1.0	k a n
+değerlerinde 1.0	d e G e r l e r i n d e
+değerlerinde 1.0	d e: r l e r i n d e
+ön 1.0	2 n
+planda 1.0	p i 5 a n d a
+belirgin 1.0	b e l i r gj i n
+bir 1.0	b i r
+anormallik 1.0	a n o r m a l l i c
+izlenmediği 1.0	i z l e n m e d i:
+izlenmediği 1.0	i z l e n m e d i G i
+mediastende 1.0	m e d i a s t e n d e
+patolojik 1.0	p a t o 5 o Z i c
+boyutlu 1.0	b o j u t 5 u
+lap 1.0	l a p
+saptanmadı 1.0	s a p t a n m a d 1
+güncel 1.0	gj y n dZ e l
+incelemede 1.0	i n dZ e l e m e d e
+plevral 1.0	p i 5 e v r a 5
+effüzyon 1.0	e f f y z j o n
+artmış 1.0	a r t m 1 S
+olup 1.0	o 5 u p
+komşuluğunda 1.0	k o m S u 5 u G u n d a
+komşuluğunda 1.0	k o m S u 5 u: n d a
+atelektazik 1.0	a t e 5 e k t a z i k
+mevcuttur 1.0	m e v dZ u t t u r
+başvurusunda 1.0	b a S v u r u s u n d a
+mevcut 1.0	m e v dZ u t
+olan 1.0	o 5 a n
+bilateral 1.0	b i 5 a t e r a 5
+ronküsleri 1.0	r o n k y s 5 e r i
+gerileme 1.0	gj e r i l e m e
+eğiliminde 1.0	e G i l i m i n d e
+eğiliminde 1.0	e j i l i m i n d e
+eğiliminde 1.0	i: l i m i n d e
+hastamızın 1.0	h a s t a m 1 z 1 n
+durumu 1.0	d u r u m u
+stabil 1.0	s 1 t a b i 5
+seyretmekte 1.0	s e j r e t m e c t e
+kardiyoloji 1.0	k a r d i j o 5 o Z i
+tarafından 1.0	t a r a f 1 n d a n
+da 1.0	d a
+değerlendirilmesi 1.0	d e G e r l e n d i r i l m e s i
+değerlendirilmesi 1.0	d e: r l e n d i r i l m e s i
+sağlanarak 1.0	s a: 5 a n a r a k
+sağlanarak 1.0	s a G 5 a n a r a k
+yapılan 1.0	j a p 1 5 a n
+transtorasik 1.0	t 1 r a n s t o r a s i k
+eko 1.0	e k o
+ile 1.0	i l e
+birlikte 1.0	b i r l i c t e
+kardiyak 1.0	k a r d i j a k
+medikasyonunun 1.0	m e d i k a s j o n u n u n
+düzenlenmesi 1.0	d y z e n l e n m e s i
+düzenlenmesi 1.0	d y z e n n e n m e s i
+sağlandı 1.0	s a: 5 a n d 1
+sağlandı 1.0	s a G 5 a n d 1
+sağ 1.0	s a:
+sağ 1.0	s a G
+alt 1.0	a 5 t
+lobta 1.0	5 o b t a
+yamalı 1.0	j a m a 5 1
+buzlu 1.0	b u z 5 u
+cam 1.0	dZ a m
+dansitesinde 1.0	d a n s i t e s i n d e
+görüntüler 1.0	gj 2 r y n t y l e r
+izlendi 1.0	i z l e n d i
+veya 1.0	v e j a
+farklılık 1.0	f a r k 5 1 5 1 k
+sürrenal 1.0	s y r r e n a 5
+gland 1.0	gj 1 5 a n d
+lateral 1.0	5 a t e r a 5
+krusunda 1.0	k 1 r u s u n d a
+hipodens 1.0	h i p o d e n s
+hemitoraksta 1.0	h e m i t o r a k s t a
+dört 1.0	d 2 r t
+üç 1.0	y tS
+olarak 1.0	o 5 a r a k
+ölçülen 1.0	2 l tS y l e n
+oskültasyon 1.0	o s k y 5 t a s j o n
+solunum 1.0	s o 5 u n u m
+sesleri 1.0	s e s l e r i
+kabalaşmış 1.0	k a b a 5 a S m 1 S
+expiratuvar 1.0	e ks p i r a t u v a r
+ronküs 1.0	r o n k y s
+göğüs 1.0	gj 2 G y s
+göğüs 1.0	gj 2: y s
+hastalıkları 1.0	h a s t a 5 1 k 5 a r 1
+izolasyon 1.0	i z o 5 a s j o n
+servisinde 1.0	s e r v i s i n d e
+nt-probnp 1.0	n e t e p 1 r o b e n e b e
+nt-probnp 1.0	n e t e p u r o b e n e p e
+değerinin 1.0	d e G e r i n i n
+değerinin 1.0	d e: r i n i n
+de 1.0	d e
+yüksek 1.0	j y c s e c
+raporlandığı 1.0	r a p o r 5 a n d 1:
+raporlandığı 1.0	r a p o r 5 a n d 1 G 1
+yirmi 1.0	j i r m i
+yedi 1.0	j e d i
+on 1.0	o n
+bin 1.0	b i n
+sıfır 1.0	s 1 f 1 r
+tarihleri 1.0	t a r i h l e r i
+arasında 1.0	a r a s 1 n d a
+refakatli 1.0	r e f a k a t l i
+şekilde 1.0	S e c i l d e
+servisimizde 1.0	s e r v i s i m i z d e
+yatışı 1.0	j a t 1 S 1
+crp 1.0	dZ e r e p e
+crp 1.0	s i: a r p i:
+sinin 1.0	s i n i n
+düştüğü 1.0	d y S t y:
+düştüğü 1.0	d y S t y G y
+hiperat 1.0	h i p e r a t
+hiponatremi 1.0	h i p o n a t r e m i
+hipokaleminin 1.0	h i p o k a 5 e m i n i n
+gerilediği 1.0	gj e r i l e d i:
+gerilediği 1.0	gj e r i l e d i G i
+hasta 1.0	h a s t a
+başvurusuna 1.0	b a S v u r u s u n a
+göre 1.0	gj 2 r e
+rahat 1.0	r a h a t
+olduğunu 1.0	o 5 d u G u n u
+olduğunu 1.0	o 5 d u: n u
+belirtiyor 1.0	b e l i r t i j o
+belirtiyor 1.0	b e l i r t i j o r
+aralıklarla 1.0	a r a 5 1 k 5 a r 5 a
+mobilize 1.0	m o b i 5 i z e
+olabiliyor 1.0	o 5 a b i l i j o
+olabiliyor 1.0	o 5 a b i l i j o r
+hastadan 1.0	h a s t a d a n
+alınan 1.0	a 5 1 n a n
+pcr 1.0	p i: s i: a r
+testi 1.0	t e s t i
+sonucunun 1.0	s o n u dZ u n u n
+pozitif 1.0	p o z i t i f
+sat 1.0	s a t
+düzenli 1.0	d y z e n l i
+düzenli 1.0	d y z e n n i
+pulse 1.0	p u 5 s e
+oksimetre 1.0	o k s i m e t r e
+satürasyon 1.0	s a t y r a s j o n
+nabız 1.0	n a b 1 z
+ateş 1.0	a t e S
+tansiyon 1.0	t a n s i j o n
+arteriyel 1.0	a r t e r i j e 5
+takibi 1.0	t a c i b i
+yapıldı 1.0	j a p 1 5 d 1
+hastaya 1.0	h a s t a j a
+düzenlenen 1.0	d y z e n l e n e n
+düzenlenen 1.0	d y z e n n e n e n
+antiaritmik 1.0	a n t i a r i t m i k
+diğer 1.0	d i G e r
+diğer 1.0	d i j e r
+medikasyonun 1.0	m e d i k a s j o n u n
+devamı 1.0	d e v a: m 1
+negatif 1.0	n e gj a t i f
+porselen 1.0	p o r s e l e n
+safra 1.0	s a f r a
+kesesi 1.0	c e s e s i
+dahiliye 1.0	d a: h i l i j e
+dahiliye 1.0	d a: h i l i: j e
+istenmiş 1.0	i s t e n m i S
+tetkikleri 1.0	t e t c i c l e r i
+tamamlanarak 1.0	t a m a m 5 a n a r a k
+ilgili 1.0	i l gj i l i
+branş 1.0	b 1 r a n S
+önerilere 1.0	2 n e r i l e r e
+uyuldu 1.0	u j u 5 d u
+radyoloji 1.0	r a d j o 5 o Z i
+notları 1.0	n o t 5 a r 1
+akciğerde 1.0	a k dZ i G e r d e
+akciğerde 1.0	a k dZ i j e r d e
+posterior 1.0	p o s t e r i j o r
+posterior 1.0	p o s t e r i o r
+segment 1.0	s e gj m e n t
+orta 1.0	o r t a
+milimetrik 1.0	m i l i m e t r i c
+solid 1.0	s o 5 i d
+nodül 1.0	n o d y 5
+şekel 1.0	S e k e 5
+net 1.0	n e t
+parankim 1.0	p a r a n k i m
+değerlendirmesi 1.0	d e G e r l e n d i r m e s i
+değerlendirmesi 1.0	d e: r l e n d i r m e s i
+istenen 1.0	i s t e n e n
+toraks 1.0	t o r a k s
+bt 1.0	b e t e
+bt 1.0	b i: t i:
+sinde 1.0	s i n d e
+pulmoner 1.0	p u 5 m o n e r
+parankimal 1.0	p a r a n k i m a 5
+infiltrasyon 1.0	i n f i 5 t r a s j o n
+lehinde 1.0	l e h i n d e
+bulgu 1.0	b u 5 g u
+tedavi 1.0	t e d a v i
+reçete 1.0	r e tS e t e
+iprasal 1.0	i p r a s a 5
+nebulizasyon 1.0	n e b u 5 i z a s j o n
+tek 1.0	t e c
+dozluk 1.0	d o z 5 u k
+inhalasyon 1.0	i n h a 5 a s j o n
+çözeltisi 1.0	tS 2 z e l t i s i
+içeren 1.0	i tS e r e n
+flakon 1.0	f 1 5 a k o n
+flakon 1.0	f i 5 a k o n
+perikardial 1.0	p e r i k a r d i a 5
+uyumlu 1.0	u j u m 5 u
+görünüm 1.0	gj 2 r y n y m
+saptanmamıştır 1.0	s a p t a n m a m 1 S t 1 r
+batın 1.0	b a t 1 n
+içinde 1.0	i tS i n d e
+serbest 1.0	s e r b e s t
+loküle 1.0	5 o k y 5 e
+sıvı 1.0	s 1 v 1
+koleksiyonu 1.0	k o l e c s i j o n u
+görülmemiştir 1.0	gj 2 r y l m e m i S t i r
+gereği 1.0	gj e r e G i
+gereği 1.0	gj e r e j i
+gereği 1.0	gj e r i:
+halinde 1.0	h a l i n d e
+halinde 1.0	h a: l i n d e
+sonuçlarla 1.0	s o n u tS 5 a r 5 a
+rekonsültasyonu 1.0	r e k o n s y 5 t a s j o n u
+önerilir 1.0	2 n e r i l i r
+gerek 1.0	gj e r e c
+yaşı 1.0	j a S 1
+performansı 1.0	p e r f o r m a n s 1
+gerekse 1.0	gj e r e c s e
+sebebi 1.0	s e b e b i
+yardımsız 1.0	j a r d 1 m s 1 z
+mobil 1.0	m o b i l
+olamıyormuş 1.0	o 5 a m 1 j o m u S
+olamıyormuş 1.0	o 5 a m 1 j o r m u S
+paratrakeal 1.0	p a r a t 1 r a k e a 5
+paratrakeal 1.0	p a r a t 1 r a k e j a 5
+alanda 1.0	a 5 a n d a
+çarpı 1.0	tS a r p 1
+mm 1.0	m m
+boyutunda 1.0	b o j u t u n d a
+birkaç 1.0	b i r k a tS
+adet 1.0	a d e t
+adet 1.0	a: d e t
+karaciğer 1.0	k a r a dZ i G e r
+karaciğer 1.0	k a r a dZ i j e r
+normal 1.0	n o r m a 5
+büyüklükte 1.0	b y j y c l y c t e
+düzgün 1.0	d y z gj y n
+konturludur 1.0	k o n t u r 5 u d u r
+takibinde 1.0	t a c i b i n d e
+şikayetleri 1.0	S i c a j e t l e r i
+gerileyen 1.0	gj e r i l e j e n
+taburculuk 1.0	t a b u r dZ u 5 u k
+talebinde 1.0	t a l e b i n d e
+bulunan 1.0	b u 5 u n a n
+medikal 1.0	m e d i c a 5
+idame 1.0	i d a m e
+tedavisi 1.0	t e d a v i s i
+düzenlendi 1.0	d y z e n l e n d i
+düzenlendi 1.0	d y z e n n e n d i
+ek 1.0	e c
+şikayeti 1.0	S i c a j e t i
+olmazsa 1.0	o 5 m a z s a
+beş 1.0	b e S
+gün 1.0	gj y n
+sonra 1.0	s o n r a
+kontrole 1.0	k o n t r o l e
+gelmesi 1.0	gj e l m e s i
+belirtilerek 1.0	b e l i r t i l e r e c
+tarihinde 1.0	t a r i h i n d e
+taburcu 1.0	t a b u r dZ u
+ekg 1.0	e k a gj e
+patoloji 1.0	p a t o 5 o Z i
+kalisiyel 1.0	k a 5 i s i j e 5
+sistem 1.0	s i s t e m
+tabiidir 1.0	t a b i i d i r
+solda 1.0	s o 5 d a
+böbrek 1.0	b 2 b r e c
+sistemde 1.0	s i s t e m d e
+anekoik 1.0	a n e k o i k
+pelvik 1.0	p e 5 v i k
+genişleme 1.0	gj e n i S l e m e
+izlenmiş 1.0	i z l e n m i S
+ısrarlı 1.0	1 s r a r 5 1
+bulunuyor 1.0	b u 5 u n u j o
+bulunuyor 1.0	b u 5 u n u j o r
+altı 1.0	a 5 t 1
+hemogramındaki 1.0	h e m o gj r a m 1 n d a k i
+hemoglobin 1.0	h e m o gj 5 o b i n
+düşüklüğü 1.0	d y S y c l y:
+düşüklüğü 1.0	d y S y c l y G y
+nedeni 1.0	n e d e n i
+ünite 1.0	y n i t e
+eritrosit 1.0	e r i t r o s i t
+süspansiyonu 1.0	s y s p a n s i j o n u
+transfüze 1.0	t 1 r a n s f y z e
+hilus 1.0	h i 5 u s
+doğal 1.0	d o: a 5
+doğal 1.0	d o G a 5
+görünümdedir 1.0	gj 2 r y n y m d e d i r
+odansite 1.0	o d a n s i t e
+aralıkla 1.0	a r a 5 1 k 5 a
+konsulte 1.0	k o n s u 5 t e
+düşüş 1.0	d y S y S
+hiatal 1.0	h i a t a 5
+herni 1.0	h e r n i
+evde 1.0	e v d e
+oksijen 1.0	o k s i Z e n
+konsantratörü 1.0	k o n s a n t r a t 2 r y
+kullanımına 1.0	k u 5 5 a n 1 m 1 n a
+etmesi 1.0	e t m e s i
+belirtildi 1.0	b e l i r t i l d i
+kendi 1.0	c e n d i
+kendine 1.0	c e n d i n e
+düşme 1.0	d y S m e
+öyküsü 1.0	2 j c y s y
+yüksekliği 1.0	j y c s e c l i:
+yüksekliği 1.0	j y c s e c l i G i
+bulunduğu 1.0	b u 5 u n d u:
+bulunduğu 1.0	b u 5 u n d u G u
+bazal 1.0	b a z a l
+segmentlerde 1.0	s e gj m e n t 5 e r d e
+subsegmental 1.0	s u b s e gj m e n t a 5
+atelektaziler 1.0	a t e 5 e k t a z i 5 e r
+perika 1.0	p e r i k a
+parakardiak 1.0	p a r a k a r d i a k
+yağ 1.0	j a:
+yağ 1.0	j a G
+yastıkcığında 1.0	j a s t 1 k dZ 1 G 1 n d a
+artış 1.0	a r t 1 S
+eğiliminin 1.0	e G i l i m i n i n
+eğiliminin 1.0	e j i l i m i n i n
+eğiliminin 1.0	i: l i m i n i n
+etmekte 1.0	e t m e c t e
+olduğu 1.0	o 5 d u:
+olduğu 1.0	o 5 d u G u
+laterobazal 1.0	5 a t e r o b a z a 5
+yerleşimli 1.0	j e r l e S i m l i
+görülüyor 1.0	gj 2 r y l y j o
+görülüyor 1.0	gj 2 r y l y j o r
+ta 1.0	t a
+loblarda 1.0	5 o b 5 a r d a
+interlobüler 1.0	i n t e r 5 o b y 5 e r
+septalarda 1.0	s e p t a 5 a r d a
+belirginleşme 1.0	b e l i r gj i n l e S m e
+belirginleşme 1.0	b e l i r gj i n n e S m e
+yer 1.0	j e r
+görünümleri 1.0	gj 2 r y n y m l e r i
+aldığı 1.0	a 5 d 1:
+aldığı 1.0	a 5 d 1 G 1
+çıkardığı 1.0	tS 1 k a r d 1:
+çıkardığı 1.0	tS 1 k a r d 1 G 1
+şekeri 1.0	S e c e r i
+genel 1.0	gj e n e l
+cerrahi 1.0	dZ e r r a: h i
+pol 1.0	p o 5
+kontrolü 1.0	k o n t r o l y
+gastroskopi 1.0	gj a s t r o s k o p i
+gastroskopi 1.0	gj a s t 1 r o s k o p i
+gastroskopi 1.0	gj a s t 1 r o s k o p j
+yapılması 1.0	j a p 1 5 m a s 1
+progas 1.0	p 1 r o gj a s
+progas 1.0	p u r o gj a s
+refcon 1.0	r e f k o n
+antepsin 1.0	a n t e p s i n
+metpamid 1.0	m e t p a m i d
+zofer 1.0	z o f e r
+olası 1.0	o 5 a s 1
+şikayet 1.0	S i c a j e t
+artışı 1.0	a r t 1 S 1
+durumunda 1.0	d u r u m u n d a
+erken 1.0	e r c e n
+cidarında 1.0	dZ i d a r 1 n d a
+akut 1.0	a k u t
+troponin 1.0	t 1 r o p o n i n
+farhex 1.0	f a r h e ks
+gargara 1.0	gj a r gj a r a
+notuss 1.0	n o t u s s
+elli 1.0	e l l i
+mg 1.0	m e gj e
+mg 1.0	m i 5 i gj r a m
+mg 1.0	m i 5 i gj 1 r a m
+mg 1.0	m i 5 gj r a m
+prednol 1.0	p 1 r e d n o 5
+prednol 1.0	p i r e d n o 5
+tablet 1.0	t a b l e t
+biyokimyasındaki 1.0	b i j o c i m j a: s 1 n d a c i
+hipokalemi 1.0	h i p o k a 5 e m i
+potasyum 1.0	p o t a s j u m
+replasmanı 1.0	r e p 5 a s m a n 1
+sekiz 1.0	s e c i z
+satürasyonu 1.0	s a t y r a s j o n u
+oda 1.0	o d a
+havasında 1.0	h a v a s 1 n d a
+aralıkta 1.0	a r a 5 1 k t a
+kutu 1.0	k u t u
+flixotide 1.0	f i 5 i k s o t i d e
+nebules 1.0	n e b u 5 e s
+aircomb 1.0	a i r dZ o m b
+film 1.0	f i l m
+kaplı 1.0	k a p 5 1
+edilmekte 1.0	e d i l m e c t e
+şikayetlerinin 1.0	S i c a j e t l e r i n i n
+gerektirdiğine 1.0	gj e r e c t i r d i G i n e
+gerektirdiğine 1.0	gj e r e c t i r d i: n e
+kanaat 1.0	k a n a a t
+getirilerek 1.0	gj e t i r i l e r e c
+kliniğine 1.0	k i l i n i G i n e
+kliniğine 1.0	k i l i n i: n e
+verildi 1.0	v e r i l d i
+taraftan 1.0	t a r a f t a n
+apikal 1.0	a p i k a 5
+artı 1.0	a r t 1
+ekspiratuvar 1.0	e k s p i r a t u v a r
+subsegmenter 1.0	s u b s e gj m e n t e r
+değişiklik 1.0	d e G i S i c l i c
+değişiklik 1.0	d e j i S i c l i c
+değişiklik 1.0	d i: S i c l i c
+biyokimya 1.0	b i j o c i m j a:
+bazali 1.0	b a z a 5 i
+zaten 1.0	z a t e n
+normalden 1.0	n o r m a 5 d e n
+üre-kreatinin 1.0	y r e  k r e a t i n i n
+değerlerinin 1.0	d e G e r l e r i n i n
+değerlerinin 1.0	d e: r l e r i n i n
+yükseldiği 1.0	j y c s e l d i:
+yükseldiği 1.0	j y c s e l d i G i
+dalak 1.0	d a 5 a k
+büyüklüğü 1.0	b y j y c l y:
+büyüklüğü 1.0	b y j y c l y G y
+ekostrüktürü 1.0	e k o s y t r y k t y r y
+ekostrüktürü 1.0	e k o s y t y r y k t y r y
+kalp 1.0	c a l p
+kalp 1.0	k a 5 p
+boyut 1.0	b o j u t
+boyutlarda 1.0	b o j u t 5 a r d a
+pankreas 1.0	p a n k r e a s
+izlenebildiği 1.0	i z l e n e b i l d i:
+izlenebildiği 1.0	i z l e n e b i l d i G i
+kadarıyla 1.0	k a d a r 1 j 5 a
+progresyon 1.0	p 1 r o gj r e s j o n
+progresyon 1.0	p 1 r o k r e s j o n
+yeni 1.0	j e n i
+eklenmiş 1.0	e c l e n m i S
+bölümde 1.0	b 2 l y m d e
+hiperdens 1.0	h i p e r d e n s
+kortikal 1.0	k o r t i k a 5
+hemorajik 1.0	h e m o r a Z i k
+kist 1.0	c i s t
+intra 1.0	i n t r a
+extrahepatik 1.0	e ks t r a h e p a t i k
+yollarında 1.0	j o 5 5 a r 1 n d a
+yoktur 1.0	j o k t u r
+mesane 1.0	m e s a n e
+lümeninde 1.0	5 y m e n i n d e
+sonda 1.0	s o n d a
+balonu 1.0	b a 5 o n u
+sft 1.0	s e f e t e
+sft 1.0	e s e f t i:
+ye 1.0	j e
+teknik 1.0	t e c n i c
+uyum 1.0	u j u m
+gösteremediği 1.0	gj 2 s t e r e m e d i:
+gösteremediği 1.0	gj 2 s t e r e m e d i G i
+arterlerde 1.0	a r t e r l e r d e
+hipertansiyon 1.0	h i p e r t a n s i j o n
+duvarında 1.0	d u w a r 1 n d a
+kese 1.0	c e s e
+adrenal 1.0	a d r e n a 5
+krusta 1.0	k 1 r u s t a
+krusta 1.0	k u r u s t a
+boyutlarında 1.0	b o j u t 5 a r 1 n d a
+adenomatöz 1.0	a d e n o m a t 2 z
+karakterde 1.0	k a r a k t e r d e
+sigara 1.0	s i gj a r a
+içmiyor 1.0	i tS m i j o
+içmiyor 1.0	i tS m i j o r
+esnasında 1.0	e s n a s 1 n d a
+hale 1.0	h a l e
+hale 1.0	h a: l e
+geldiğinin 1.0	gj e l d i G i n i n
+geldiğinin 1.0	gj e l d i: n i n
+üzerine 1.0	y z e r i n e
+yeniden 1.0	j e n i d e n
+servisine 1.0	s e r v i s i n e
+kırk 1.0	k 1 r k
+benzeri 1.0	b e n z e r i
+oval 1.0	o v a 5
+şekilli 1.0	S e c i l l i
+tiroid 1.0	t i r o i d
+tiroid 1.0	t i r o j i d
+tiroid 1.0	t 1 r o i d
+tiroid 1.0	t 1 r o j i d
+kalsifik 1.0	k a 5 s i f i k
+izlenmektedir 1.0	i z l e n m e c t e d i r
+olduğunun 1.0	o 5 d u G u n u n
+olduğunun 1.0	o 5 d u: n u n
+yatırıldı 1.0	j a t 1 r 1 5 d 1
+aksilla 1.0	a k s i 5 5 a
+skapula 1.0	s k a p u 5 a
+skapula 1.0	s 1 k a p u 5 a
+skapula 1.0	s u k a p u 5 a
+skapula 1.0	s i k a p u 5 a
+çevresinde 1.0	tS e v r e s i n d e
+arteriovenöz 1.0	a r t e r i o v e n 2 z
+malformasyon 1.0	m a 5 f o r m a s j o n
+olabilecek 1.0	o 5 a b i l e dZ e c
+kontrastlanma 1.0	k o n t r a s t 5 a n m a
+mezenterik 1.0	m e z e n t e r i k
+abdominal 1.0	a b d o m i n a 5
+aortada 1.0	a o r t a d a
+renal 1.0	r e n a 5
+aterom 1.0	a t e r o m
+plakları 1.0	p i 5 a k 5 a r 1
+kullanmakta 1.0	k u 5 5 a n m a k t a
+antihipertansif 1.0	a n t i h i p e r t a n s i f
+antikoagulan 1.0	a n t i k o a gj u 5 a n
+antidiyabetik 1.0	a n t i d i j a b e t i k
+bph 1.0	b e p e h a S
+semptomatik 1.0	s e m p t o m a t i k
+tetkikler 1.0	t e t c i c l e r
+tüm 1.0	t y m
+abdomen 1.0	a b d o m e n
+usg 1.0	u: s e gj e
+usg 1.0	j u e s dZ i
+sonucunda 1.0	s o n u dZ u n d a
+kesesinin 1.0	c e s e s i n i n
+kalküller 1.0	k a 5 k y 5 5 e r
+dolu 1.0	d o 5 u
+kurallarına 1.0	k u r a 5 5 a r 1 n a
+uyması 1.0	u j m a s 1
+lojunda 1.0	5 o Z u n d a
+olmak 1.0	o 5 m a k
+üzere 1.0	y z e r e
+keseyi 1.0	c e s e j i
+tamamen 1.0	t a m a m e n
+dolduran 1.0	d o 5 d u r a n
+kalkül 1.0	k a 5 k y 5
+öksürük 1.0	2 c s y r y c
+hırıltılı 1.0	h 1 r 1 5 t 1 5 1
+halsizlik 1.0	h a l s i z l i c
+bulantı 1.0	b u 5 a n t 1
+iştahsızlık 1.0	i S t a h s 1 z 5 1 k
+durum 1.0	d u r u m
+bozukluğu 1.0	b o z u k 5 u:
+bozukluğu 1.0	b o z u k 5 u G u
+yaygın 1.0	j a j gj 1 n
+vücut 1.0	v y dZ u t
+ağrıları 1.0	a G r 1 5 a r 1
+ağrıları 1.0	a: r 1 5 a r 1
+ekojenitesi 1.0	e k o Z e n i t e s i
+tabii 1.0	t a b i i
+homojen 1.0	h o m o Z e n
+kaplayan 1.0	k a p 5 a j a n
+ana 1.0	a n a
+ana 1.0	a: n a
+vasküler 1.0	v a s k y 5 e r
+yapıların 1.0	j a p 1 5 a r 1 n
+değerlendirilmesinde 1.0	d e G e r l e n d i r i l m e s i n d e
+değerlendirilmesinde 1.0	d e: r l e n d i r i l m e s i n d e
+aorta 1.0	a o r t a
+çapı 1.0	tS a p 1
+değerlendirilmiştir 1.0	d e G e r l e n d i r i l m i S t i r
+değerlendirilmiştir 1.0	d e: r l e n d i r i l m i S t i r
+tekrarlayıcı 1.0	t e c r a r 5 a j 1 dZ 1
+hazımsızlık 1.0	h a z 1 m s 1 z 5 1 k
+karın 1.0	c a: r 1 n
+karın 1.0	k a r 1 n
+ağrısı 1.0	a G r 1 s 1
+ağrısı 1.0	a: r 1 s 1
+gibi 1.0	gj i b i
+tarifliyor 1.0	t a r i f 5 i j o r
+olması 1.0	o 5 m a s 1
+oldukça 1.0	o 5 d u k tS a
+solunumu 1.0	s o 5 u n u m u
+izlenen 1.0	i z l e n e n
+nodüllerde 1.0	n o d y 5 5 e r d e
+anlamlı 1.0	a n 5 a m 5 1
+anlamlı 1.0	a n n a m 5 1
+akciğerlerde 1.0	a k dZ i G e r l e r d e
+akciğerlerde 1.0	a k dZ i j e r l e r d e
+ağırlıklı 1.0	a 1 r 5 1 k 5 1
+ağırlıklı 1.0	a G 1 r 5 1 k 5 1
+ağırlıklı 1.0	a: r 5 1 k 5 1
+santral 1.0	s a n t r a 5
+dağılımlı 1.0	d a 1 5 1 m 5 1
+dağılımlı 1.0	d a: 5 1 m 5 1
+dağılımlı 1.0	d a G 1 5 1 m 5 1
+alanlar 1.0	a 5 a n 5 a r
+alanlar 1.0	a 5 a n n a r
+kalınlaşmalar 1.0	k a 5 1 n 5 a S m a 5 a r
+kalınlaşmalar 1.0	k a 5 1 n n a S m a 5 a r
+kardiyojenik 1.0	k a r d i j o Z e n i k
+ödem 1.0	2 d e m
+önerilerine 1.0	2 n e r i l e r i n e
+medikasyonu 1.0	m e d i k a s j o n u
+antibiyoterapisine 1.0	a n t i b i j o t e r a p i s i n e
+ampisilin 1.0	a m p i s i 5 i n
+sulbaktam 1.0	s u 5 b a k t a m
+azitromisin 1.0	a z i t r o m i s i n
+şeklinde 1.0	S e c l i n d e
+edilmesine 1.0	e d i l m e s i n e
+karar 1.0	k a r a r
+anteromedial 1.0	a n t e r o m e d i a 5
+kalsifiye 1.0	k a 5 s i f i j e
+ıv 1.0	1 v e
+ıv 1.0	a j v i:
+kontrast 1.0	k o n t r a s t
+madde 1.0	m a d d e
+verilmediği 1.0	v e r i l m e d i:
+verilmediği 1.0	v e r i l m e d i G i
+mediastinal 1.0	m e d i j a s t i n a 5
+mediastinal 1.0	m e d i a s t i n a 5
+hiler 1.0	h i 5 e r
+suboptimaldir 1.0	s u b o p t i m a 5 d i r
+arter 1.0	a r t e r
+trunkus 1.0	t u r u n k u s
+otuz 1.0	o t u z
+ölçülmüş 1.0	2 l tS y l m y S
+artmıştır 1.0	a r t m 1 S t 1 r
+trakea 1.0	t 1 r a k e a
+trakea 1.0	t 1 r a k e j a
+mediasten 1.0	m e d i a s t e n
+hattadır 1.0	h a t t a d 1 r
+tak 1.0	t a k
+demans 1.0	d e m a n s
+al 1.0	a 5
+bronşial 1.0	b 1 r o n S i j a 5
+bronşial 1.0	b u r o n S i j a 5
+bronşial 1.0	b u r o n S i a 5
+bronşial 1.0	b 1 r o n S i a 5
+duvar 1.0	d u w a r
+kalınlık 1.0	k a 5 1 n 5 1 k
+kalınlık 1.0	k a 5 1 n n 1 k
+peribronşial 1.0	p e r i b 1 r o n S i j a 5
+peribronşial 1.0	p e r i b u r o n S i j a 5
+peribronşial 1.0	p e r i b u r o n S i a 5
+peribronşial 1.0	p e r i b 1 r o n S i a 5
+infiltrasyonlar 1.0	i n f i 5 t r a s j o n 5 a r
+ayaklarda 1.0	a j a k 5 a r d a
+şişlik 1.0	S i S l i c
+nefes 1.0	n e f e s
+darlığı 1.0	d a r 5 1:
+darlığı 1.0	d a r 5 1 G 1
+inci 1.0	i n dZ i
+kostalarda 1.0	k o s t a 5 a r d a
+eski 1.0	e s c i
+kırığa 1.0	k 1 r 1 a
+kırığa 1.0	k 1 r 1 G a
+bağlı 1.0	b a: 5 1
+bağlı 1.0	b a G 5 1
+kallüs 1.0	k a 5 5 y s
+formasyonları 1.0	f o r m a s j o n 5 a r 1
+formasyonları 1.0	f o r m a s j o n n a r 1
+lümeninin 1.0	5 y m e n i n i n
+sonografik 1.0	s o n o gj r a f i k
+si 1.0	s i
+değerinde 1.0	d e G e r i n d e
+değerinde 1.0	d e: r i n d e
+yükselme 1.0	j y c s e l m e
+hava 1.0	h a v a
+kisti 1.0	c i s t i
+kısa 1.0	k 1 s a
+aksı 1.0	a k s 1
+geçmeyen 1.0	gj e tS m e j e n
+multiple 1.0	m a 5 t i p 1 5
+multiple 1.0	m u 5 t i p 1 5
+lenf 1.0	l e n f
+nodu 1.0	n o d u
+bronşektazik 1.0	b u r o n S e k t a z i k
+bronşektazik 1.0	b 1 r o n S e k t a z i k
+sağda 1.0	s a: d a
+sağda 1.0	s a G d a
+en 1.0	e n
+geniş 1.0	gj e n i S
+yerinde 1.0	j e r i n d e
+tarzda 1.0	t a r z d a
+dansiteleri 1.0	d a n s i t e 5 e r i
+bronkopnömoni 1.0	b u r o n k o p n 2 m o n i
+bronkopnömoni 1.0	b 1 r o n k o p n 2 m o n i
+kalınlığı 1.0	k a 5 1 n 5 1:
+kalınlığı 1.0	k a 5 1 n 5 1 G 1
+kalınlığı 1.0	k a 5 1 n n 1:
+kalınlığı 1.0	k a 5 1 n n 1 G 1
+normaldir 1.0	n o r m a 5 d i r
+çıkan 1.0	tS 1 k a n
+aort 1.0	a o r t
+ap 1.0	e a p e
+ap 1.0	e j p i:
+etken 1.0	e t c e n
+identifikasyonuna 1.0	i d e n t i f i k a s j o n u n a
+yönelik 1.0	j 2 n e l i c
+tit 1.0	t i t
+idrar 1.0	i d r a r
+kültüründe 1.0	c y l t y r y n d e
+edilmediği 1.0	e d i l m e d i:
+edilmediği 1.0	e d i l m e d i G i
+raporlandı 1.0	r a p o r 5 a n d 1
+böbrekte 1.0	b 2 b r e c t e
+asendan 1.0	a s e n d a n
+pırat 1.0	p 1 r a t
+nodları 1.0	n o d 5 a r 1
+evinde 1.0	e v i n d e
+desteği 1.0	d e s t e G i
+desteği 1.0	d e s t e j i
+desteği 1.0	d e s t i:
+glandda 1.0	gj 1 5 a n d a
+glandda 1.0	gj 1 5 a n d
+levotiroksin 1.0	5 e v o t i r o k s i n
+tetkik 1.0	t e t c i c
+kontrastsız 1.0	k o n t r a s t s 1 z
+multislice 1.0	m u 5 t i s 1 5 a j s
+multislice 1.0	m a 5 t i s 1 5 a j s
+inceleme 1.0	i n dZ e l e m e
+plevra 1.0	p 1 l e v r a
+yaprakları 1.0	j a p r a k 5 a r 1
+ince 1.0	i n dZ e
+efüzyon 1.0	e f y z j o n
+subkarinal 1.0	s u b k a r i n a 5
+aortopulmoner 1.0	a o r t o p u 5 m o n e r
+bölgede 1.0	b 2 l gj e d e
+anterobazal 1.0	a n t e r o b a z a 5
+imajı 1.0	i m a Z 1
+yumuşak 1.0	j u m u S a k
+doku 1.0	d o k u
+tarihli 1.0	t a r i h l i
+filmleriyle 1.0	f i l m l e r i j l e
+karşılaştırıldığında 1.0	k a r S 1 5 a S t 1 r 1 5 d 1 G 1 n d a
+karşılaştırıldığında 1.0	k a r S 1 5 a S t 1 r 1 5 d 1: n d a
+kontrolüne 1.0	k o n t r o l y n e
+kronik 1.0	k 1 r o n i c
+af 1.0	a f
+bulgular 1.0	b u 5 g u 5 a r
+izlendiği 1.0	i z l e n d i:
+izlendiği 1.0	i z l e n d i G i
+konsültasyon 1.0	k o n s y l t a s j o n
+notu 1.0	n o t u
+pretibial 1.0	p i r e t i b i a 5
+pretibial 1.0	p i r e t i b i j a 5
+bilinen 1.0	b i l i n e n
+fizik 1.0	f i z i c
+zonlarda 1.0	z o n 5 a r d a
+manşet 1.0	m a n S e t
+ralleri 1.0	r a 5 5 e r i
+desmont 1.0	d e s m o n t
+trans 1.0	t 1 r a n s
+diüretik 1.0	d i y r e t i k
+dokuz 1.0	d o k u z
+pnömonisinde 1.0	p i n 2 m o n i s i n d e
+pnömonisinde 1.0	p y n 2 m o n i s i n d e
+görülebilir 1.0	gj 2 r y l e b i l i r
+ancak 1.0	a n dZ a k
+nonspesifiktir 1.0	n o n s i p e s i f i k t i r
+nonspesifiktir 1.0	n o n s 1 p e s i f i k t i r
+dizi 1.0	d i z i
+enfeksiyonda 1.0	e n f e c s i j o n d a
+enfeksiyon 1.0	e n f e c s i j o n
+dışı 1.0	d 1 S 1
+hastalıkta 1.0	h a s t a 5 1 k t a
+bulunabilir 1.0	b u 5 u n a b i l i r
+me 1.0	m e
+tabanlı 1.0	t a b a n 5 1
+tabanlı 1.0	t a b a n n 1
+fibrotik 1.0	f i b r o t i k
+çekintiler 1.0	tS e c i n t i l e r
+amfizematöz 1.0	a m f i z e m a t 2 z
+kardiyomegali 1.0	k a r d i j o m e gj a 5 i
+perikardiyal 1.0	p e r i k a r d i j a 5
+bronşlar 1.0	b 1 r o n S 5 a r
+açıktır 1.0	a tS 1 k t 1 r
+klinik 1.0	c 1 l i n i c
+laboratuar 1.0	5 a b r o t u v a r
+laboratuar 1.0	5 a b r a t u v a r
+laboratuar 1.0	5 a b r a t u a r
+laboratuar 1.0	5 a b o r a t u a r
+laboratuar 1.0	5 a b o r a t u v a r
+bulgularla 1.0	b u 5 g u 5 a r 5 a
+yan 1.0	j a n
+yakınlarının 1.0	j a k 1 n 5 a r 1 n 1 n
+yakınlarının 1.0	j a k 1 n n a r 1 n 1 n
+önceden 1.0	2 n dZ e d e n
+bilindiğini 1.0	b i l i n d i G i n i
+bilindiğini 1.0	b i l i n d i: n i
+belirttiği 1.0	b e l i r t t i:
+belirttiği 1.0	b e l i r t t i G i
+bulgularının 1.0	b u 5 g u 5 a r 1 n 1 n
+hepsi 1.0	h e p s i
+hiponatremisinin 1.0	h i p o n a t r e m i s i n i n
+seyir 1.0	s e j i r
+uygulanan 1.0	u j gj u 5 a n a n
+ilaçlar 1.0	i l a tS 5 a r
+malzemeler 1.0	m a 5 z e m e l e r
+bunun 1.0	b u n u n
+değerlendirildiği 1.0	d e G e r l e n d i r i l d i G i
+değerlendirildiği 1.0	d e: r l e n d i r i l d i:
+görülmediği 1.0	gj 2 r y l m e d i:
+görülmediği 1.0	gj 2 r y l m e d i G i
+öğrenildi 1.0	2 G r e n i l d i
+öğrenildi 1.0	2: r e n i l d i
+alanlarında 1.0	a 5 a n 5 a r 1 n d a
+alanlarında 1.0	a 5 a n n a r 1 n d a
+aktif 1.0	a k t i f
+kaplayıcı 1.0	k a p 5 a j 1 dZ 1
+kitle 1.0	c i t l e
+hafif 1.0	h a f i f
+bal 1.0	b a 5
+peteği 1.0	p e t e G i
+peteği 1.0	p e t e j i
+peteği 1.0	p e t i:
+görünümü 1.0	gj 2 r y n y m y
+interstisyel 1.0	i n t e r s t i s j e 5
+hastalığı 1.0	h a s t a 5 1:
+hastalığı 1.0	h a s t a 5 1 G 1
+seviyede 1.0	s e v i j e d e
+ovoid 1.0	o v o i d
+ovoid 1.0	o v o j i d
+ovoid 1.0	o v o j i t
+formda 1.0	f o r m d a
+segmentlerinde 1.0	s e gj m e n t 5 e r i n d e
+konsolidasyon 1.0	k o n s o l i d a s j o n
+alanları 1.0	a 5 a n 5 a r 1
+alanları 1.0	a 5 a n n a r 1
+lokalizasyondadır 1.0	5 o k a 5 i z a s j o n d a d 1 r
+boyutları 1.0	b o j u t 5 a r 1
+diafragma 1.0	d i a f 1 r a gj m a
+diafragma 1.0	d i j a f 1 r a gj m a
+diafragma 1.0	d i j a f 1 r a k m a
+diafragma 1.0	d i j a f r a gj m a
+konturları 1.0	k o n t u r 5 a r 1
+düzgündür 1.0	d y z gj y n d y r
+gerilemiş 1.0	gj e r i l e m i S
+durumda 1.0	d u r u m d a

@@ -1,0 +1,902 @@
+!SIL !SIL SIL_S
+<UNK> <UNK> SPN_S
+<eps> <eps> SIL
+abdomen abdomen a_B b_I d_I o_I m_I e_I n_E
+abdominal abdominal a_B b_I d_I o_I m_I i_I n_I a_I 5_E
+adenomatöz adenomatöz a_B d_I e_I n_I o_I m_I a_I t_I 2_I z_E
+adet adet a:_B d_I e_I t_E
+adet adet a_B d_I e_I t_E
+adrenal adrenal a_B d_I r_I e_I n_I a_I 5_E
+af af a_B f_E
+aircomb aircomb a_B i_I r_I dZ_I o_I m_I b_E
+akciğer akciğer a_B k_I dZ_I i_I G_I e_I r_E
+akciğer akciğer a_B k_I dZ_I i_I j_I e_I r_E
+akciğerde akciğerde a_B k_I dZ_I i_I G_I e_I r_I d_I e_E
+akciğerde akciğerde a_B k_I dZ_I i_I j_I e_I r_I d_I e_E
+akciğerlerde akciğerlerde a_B k_I dZ_I i_I G_I e_I r_I l_I e_I r_I d_I e_E
+akciğerlerde akciğerlerde a_B k_I dZ_I i_I j_I e_I r_I l_I e_I r_I d_I e_E
+aksilla aksilla a_B k_I s_I i_I 5_I 5_I a_E
+aksı aksı a_B k_I s_I 1_E
+aktif aktif a_B k_I t_I i_I f_E
+akut akut a_B k_I u_I t_E
+al al a_B 5_E
+alanda alanda a_B 5_I a_I n_I d_I a_E
+alanlar alanlar a_B 5_I a_I n_I 5_I a_I r_E
+alanlar alanlar a_B 5_I a_I n_I n_I a_I r_E
+alanlarda alanlarda a_B 5_I a_I n_I 5_I a_I r_I d_I a_E
+alanlarda alanlarda a_B 5_I a_I n_I n_I a_I r_I d_I a_E
+alanları alanları a_B 5_I a_I n_I 5_I a_I r_I 1_E
+alanları alanları a_B 5_I a_I n_I n_I a_I r_I 1_E
+alanlarında alanlarında a_B 5_I a_I n_I 5_I a_I r_I 1_I n_I d_I a_E
+alanlarında alanlarında a_B 5_I a_I n_I n_I a_I r_I 1_I n_I d_I a_E
+aldığı aldığı a_B 5_I d_I 1:_E
+aldığı aldığı a_B 5_I d_I 1_I G_I 1_E
+alt alt a_B 5_I t_E
+altı altı a_B 5_I t_I 1_E
+alınan alınan a_B 5_I 1_I n_I a_I n_E
+alındı alındı a_B 5_I 1_I n_I d_I 1_E
+amfizematöz amfizematöz a_B m_I f_I i_I z_I e_I m_I a_I t_I 2_I z_E
+ampisilin ampisilin a_B m_I p_I i_I s_I i_I 5_I i_I n_E
+ana ana a:_B n_I a_E
+ana ana a_B n_I a_E
+ancak ancak a_B n_I dZ_I a_I k_E
+anekoik anekoik a_B n_I e_I k_I o_I i_I k_E
+anlamlı anlamlı a_B n_I 5_I a_I m_I 5_I 1_E
+anlamlı anlamlı a_B n_I n_I a_I m_I 5_I 1_E
+anormallik anormallik a_B n_I o_I r_I m_I a_I l_I l_I i_I c_E
+antepsin antepsin a_B n_I t_I e_I p_I s_I i_I n_E
+anterobazal anterobazal a_B n_I t_I e_I r_I o_I b_I a_I z_I a_I 5_E
+anteromedial anteromedial a_B n_I t_I e_I r_I o_I m_I e_I d_I i_I a_I 5_E
+antiaritmik antiaritmik a_B n_I t_I i_I a_I r_I i_I t_I m_I i_I k_E
+antibiyoterapisine antibiyoterapisine a_B n_I t_I i_I b_I i_I j_I o_I t_I e_I r_I a_I p_I i_I s_I i_I n_I e_E
+antidiyabetik antidiyabetik a_B n_I t_I i_I d_I i_I j_I a_I b_I e_I t_I i_I k_E
+antihipertansif antihipertansif a_B n_I t_I i_I h_I i_I p_I e_I r_I t_I a_I n_I s_I i_I f_E
+antikoagulan antikoagulan a_B n_I t_I i_I k_I o_I a_I gj_I u_I 5_I a_I n_E
+aort aort a_B o_I r_I t_E
+aorta aorta a_B o_I r_I t_I a_E
+aortada aortada a_B o_I r_I t_I a_I d_I a_E
+aortopulmoner aortopulmoner a_B o_I r_I t_I o_I p_I u_I 5_I m_I o_I n_I e_I r_E
+ap ap e_B a_I p_I e_E
+ap ap e_B j_I p_I i:_E
+apikal apikal a_B p_I i_I k_I a_I 5_E
+apikoposterior apikoposterior a_B p_I i_I k_I o_I p_I o_I s_I t_I e_I r_I i_I j_I o_I r_E
+apikoposterior apikoposterior a_B p_I i_I k_I o_I p_I o_I s_I t_I e_I r_I i_I o_I r_E
+aralıkla aralıkla a_B r_I a_I 5_I 1_I k_I 5_I a_E
+aralıklarla aralıklarla a_B r_I a_I 5_I 1_I k_I 5_I a_I r_I 5_I a_E
+aralıkta aralıkta a_B r_I a_I 5_I 1_I k_I t_I a_E
+arasında arasında a_B r_I a_I s_I 1_I n_I d_I a_E
+arter arter a_B r_I t_I e_I r_E
+arteriovenöz arteriovenöz a_B r_I t_I e_I r_I i_I o_I v_I e_I n_I 2_I z_E
+arteriyel arteriyel a_B r_I t_I e_I r_I i_I j_I e_I 5_E
+arterlerde arterlerde a_B r_I t_I e_I r_I l_I e_I r_I d_I e_E
+artmış artmış a_B r_I t_I m_I 1_I S_E
+artmıştır artmıştır a_B r_I t_I m_I 1_I S_I t_I 1_I r_E
+artı artı a_B r_I t_I 1_E
+artış artış a_B r_I t_I 1_I S_E
+artışları artışları a_B r_I t_I 1_I S_I 5_I a_I r_I 1_E
+artışı artışı a_B r_I t_I 1_I S_I 1_E
+asendan asendan a_B s_I e_I n_I d_I a_I n_E
+atelektazik atelektazik a_B t_I e_I 5_I e_I k_I t_I a_I z_I i_I k_E
+atelektaziler atelektaziler a_B t_I e_I 5_I e_I k_I t_I a_I z_I i_I 5_I e_I r_E
+aterom aterom a_B t_I e_I r_I o_I m_E
+ateş ateş a_B t_I e_I S_E
+ayaklarda ayaklarda a_B j_I a_I k_I 5_I a_I r_I d_I a_E
+azitromisin azitromisin a_B z_I i_I t_I r_I o_I m_I i_I s_I i_I n_E
+açıktır açıktır a_B tS_I 1_I k_I t_I 1_I r_E
+ağrıları ağrıları a:_B r_I 1_I 5_I a_I r_I 1_E
+ağrıları ağrıları a_B G_I r_I 1_I 5_I a_I r_I 1_E
+ağrısı ağrısı a:_B r_I 1_I s_I 1_E
+ağrısı ağrısı a_B G_I r_I 1_I s_I 1_E
+ağırlıklı ağırlıklı a:_B r_I 5_I 1_I k_I 5_I 1_E
+ağırlıklı ağırlıklı a_B 1_I r_I 5_I 1_I k_I 5_I 1_E
+ağırlıklı ağırlıklı a_B G_I 1_I r_I 5_I 1_I k_I 5_I 1_E
+bakım bakım b_B a_I k_I 1_I m_E
+bal bal b_B a_I 5_E
+balonu balonu b_B a_I 5_I o_I n_I u_E
+batın batın b_B a_I t_I 1_I n_E
+bazal bazal b_B a_I z_I a_I l_E
+bazali bazali b_B a_I z_I a_I 5_I i_E
+bağlı bağlı b_B a:_I 5_I 1_E
+bağlı bağlı b_B a_I G_I 5_I 1_E
+başvurusuna başvurusuna b_B a_I S_I v_I u_I r_I u_I s_I u_I n_I a_E
+başvurusunda başvurusunda b_B a_I S_I v_I u_I r_I u_I s_I u_I n_I d_I a_E
+belirgin belirgin b_B e_I l_I i_I r_I gj_I i_I n_E
+belirginleşme belirginleşme b_B e_I l_I i_I r_I gj_I i_I n_I l_I e_I S_I m_I e_E
+belirginleşme belirginleşme b_B e_I l_I i_I r_I gj_I i_I n_I n_I e_I S_I m_I e_E
+belirtildi belirtildi b_B e_I l_I i_I r_I t_I i_I l_I d_I i_E
+belirtilerek belirtilerek b_B e_I l_I i_I r_I t_I i_I l_I e_I r_I e_I c_E
+belirtiyor belirtiyor b_B e_I l_I i_I r_I t_I i_I j_I o_E
+belirtiyor belirtiyor b_B e_I l_I i_I r_I t_I i_I j_I o_I r_E
+belirttiği belirttiği b_B e_I l_I i_I r_I t_I t_I i:_E
+belirttiği belirttiği b_B e_I l_I i_I r_I t_I t_I i_I G_I i_E
+benzeri benzeri b_B e_I n_I z_I e_I r_I i_E
+beş beş b_B e_I S_E
+bilateral bilateral b_B i_I 5_I a_I t_I e_I r_I a_I 5_E
+bilindiğini bilindiğini b_B i_I l_I i_I n_I d_I i:_I n_I i_E
+bilindiğini bilindiğini b_B i_I l_I i_I n_I d_I i_I G_I i_I n_I i_E
+bilinen bilinen b_B i_I l_I i_I n_I e_I n_E
+bin bin b_B i_I n_E
+bir bir b_B i_I r_E
+birkaç birkaç b_B i_I r_I k_I a_I tS_E
+birlikte birlikte b_B i_I r_I l_I i_I c_I t_I e_E
+biyokimya biyokimya b_B i_I j_I o_I c_I i_I m_I j_I a:_E
+biyokimyasındaki biyokimyasındaki b_B i_I j_I o_I c_I i_I m_I j_I a:_I s_I 1_I n_I d_I a_I c_I i_E
+boyut boyut b_B o_I j_I u_I t_E
+boyutlarda boyutlarda b_B o_I j_I u_I t_I 5_I a_I r_I d_I a_E
+boyutları boyutları b_B o_I j_I u_I t_I 5_I a_I r_I 1_E
+boyutlarında boyutlarında b_B o_I j_I u_I t_I 5_I a_I r_I 1_I n_I d_I a_E
+boyutlu boyutlu b_B o_I j_I u_I t_I 5_I u_E
+boyutunda boyutunda b_B o_I j_I u_I t_I u_I n_I d_I a_E
+bozukluğu bozukluğu b_B o_I z_I u_I k_I 5_I u:_E
+bozukluğu bozukluğu b_B o_I z_I u_I k_I 5_I u_I G_I u_E
+bph bph b_B e_I p_I e_I h_I a_I S_E
+branş branş b_B 1_I r_I a_I n_I S_E
+bronkopnömoni bronkopnömoni b_B 1_I r_I o_I n_I k_I o_I p_I n_I 2_I m_I o_I n_I i_E
+bronkopnömoni bronkopnömoni b_B u_I r_I o_I n_I k_I o_I p_I n_I 2_I m_I o_I n_I i_E
+bronşektazik bronşektazik b_B 1_I r_I o_I n_I S_I e_I k_I t_I a_I z_I i_I k_E
+bronşektazik bronşektazik b_B u_I r_I o_I n_I S_I e_I k_I t_I a_I z_I i_I k_E
+bronşial bronşial b_B 1_I r_I o_I n_I S_I i_I a_I 5_E
+bronşial bronşial b_B 1_I r_I o_I n_I S_I i_I j_I a_I 5_E
+bronşial bronşial b_B u_I r_I o_I n_I S_I i_I a_I 5_E
+bronşial bronşial b_B u_I r_I o_I n_I S_I i_I j_I a_I 5_E
+bronşlar bronşlar b_B 1_I r_I o_I n_I S_I 5_I a_I r_E
+bt bt b_B e_I t_I e_E
+bt bt b_B i:_I t_I i:_E
+bulantı bulantı b_B u_I 5_I a_I n_I t_I 1_E
+bulgu bulgu b_B u_I 5_I g_I u_E
+bulgular bulgular b_B u_I 5_I g_I u_I 5_I a_I r_E
+bulgularla bulgularla b_B u_I 5_I g_I u_I 5_I a_I r_I 5_I a_E
+bulgularının bulgularının b_B u_I 5_I g_I u_I 5_I a_I r_I 1_I n_I 1_I n_E
+bulunabilir bulunabilir b_B u_I 5_I u_I n_I a_I b_I i_I l_I i_I r_E
+bulunan bulunan b_B u_I 5_I u_I n_I a_I n_E
+bulunduğu bulunduğu b_B u_I 5_I u_I n_I d_I u:_E
+bulunduğu bulunduğu b_B u_I 5_I u_I n_I d_I u_I G_I u_E
+bulunuyor bulunuyor b_B u_I 5_I u_I n_I u_I j_I o_E
+bulunuyor bulunuyor b_B u_I 5_I u_I n_I u_I j_I o_I r_E
+bunun bunun b_B u_I n_I u_I n_E
+buzlu buzlu b_B u_I z_I 5_I u_E
+böbrek böbrek b_B 2_I b_I r_I e_I c_E
+böbrekte böbrekte b_B 2_I b_I r_I e_I c_I t_I e_E
+bölgede bölgede b_B 2_I l_I gj_I e_I d_I e_E
+bölümde bölümde b_B 2_I l_I y_I m_I d_I e_E
+büyüklükte büyüklükte b_B y_I j_I y_I c_I l_I y_I c_I t_I e_E
+büyüklüğü büyüklüğü b_B y_I j_I y_I c_I l_I y:_E
+büyüklüğü büyüklüğü b_B y_I j_I y_I c_I l_I y_I G_I y_E
+büyüğü büyüğü b_B y_I j_I y:_E
+büyüğü büyüğü b_B y_I j_I y_I G_I y_E
+cam cam dZ_B a_I m_E
+cerrahi cerrahi dZ_B e_I r_I r_I a:_I h_I i_E
+cidarında cidarında dZ_B i_I d_I a_I r_I 1_I n_I d_I a_E
+cm cm s_B a_I n_I t_I i_I m_E
+cm cm s_B a_I n_I t_I i_I m_I e_I t_I r_I e_E
+crp crp dZ_B e_I r_I e_I p_I e_E
+crp crp s_B i:_I a_I r_I p_I i:_E
+da da d_B a_E
+daha daha d_B a_I h_I a_E
+dahiliye dahiliye d_B a:_I h_I i_I l_I i:_I j_I e_E
+dahiliye dahiliye d_B a:_I h_I i_I l_I i_I j_I e_E
+dalak dalak d_B a_I 5_I a_I k_E
+dansite dansite d_B a_I n_I s_I i_I t_I e_E
+dansiteleri dansiteleri d_B a_I n_I s_I i_I t_I e_I 5_I e_I r_I i_E
+dansitesinde dansitesinde d_B a_I n_I s_I i_I t_I e_I s_I i_I n_I d_I e_E
+darlığı darlığı d_B a_I r_I 5_I 1:_E
+darlığı darlığı d_B a_I r_I 5_I 1_I G_I 1_E
+dağılımlı dağılımlı d_B a:_I 5_I 1_I m_I 5_I 1_E
+dağılımlı dağılımlı d_B a_I 1_I 5_I 1_I m_I 5_I 1_E
+dağılımlı dağılımlı d_B a_I G_I 1_I 5_I 1_I m_I 5_I 1_E
+de de d_B e_E
+demans demans d_B e_I m_I a_I n_I s_E
+desmont desmont d_B e_I s_I m_I o_I n_I t_E
+desteği desteği d_B e_I s_I t_I e_I G_I i_E
+desteği desteği d_B e_I s_I t_I e_I j_I i_E
+desteği desteği d_B e_I s_I t_I i:_E
+devam devam d_B e_I v_I a:_I m_E
+devam devam d_B e_I v_I a_I m_E
+devamı devamı d_B e_I v_I a:_I m_I 1_E
+değerinde değerinde d_B e:_I r_I i_I n_I d_I e_E
+değerinde değerinde d_B e_I G_I e_I r_I i_I n_I d_I e_E
+değerinin değerinin d_B e:_I r_I i_I n_I i_I n_E
+değerinin değerinin d_B e_I G_I e_I r_I i_I n_I i_I n_E
+değerlendirildiği değerlendirildiği d_B e:_I r_I l_I e_I n_I d_I i_I r_I i_I l_I d_I i:_E
+değerlendirildiği değerlendirildiği d_B e_I G_I e_I r_I l_I e_I n_I d_I i_I r_I i_I l_I d_I i_I G_I i_E
+değerlendirilmesi değerlendirilmesi d_B e:_I r_I l_I e_I n_I d_I i_I r_I i_I l_I m_I e_I s_I i_E
+değerlendirilmesi değerlendirilmesi d_B e_I G_I e_I r_I l_I e_I n_I d_I i_I r_I i_I l_I m_I e_I s_I i_E
+değerlendirilmesinde değerlendirilmesinde d_B e:_I r_I l_I e_I n_I d_I i_I r_I i_I l_I m_I e_I s_I i_I n_I d_I e_E
+değerlendirilmesinde değerlendirilmesinde d_B e_I G_I e_I r_I l_I e_I n_I d_I i_I r_I i_I l_I m_I e_I s_I i_I n_I d_I e_E
+değerlendirilmiştir değerlendirilmiştir d_B e:_I r_I l_I e_I n_I d_I i_I r_I i_I l_I m_I i_I S_I t_I i_I r_E
+değerlendirilmiştir değerlendirilmiştir d_B e_I G_I e_I r_I l_I e_I n_I d_I i_I r_I i_I l_I m_I i_I S_I t_I i_I r_E
+değerlendirmesi değerlendirmesi d_B e:_I r_I l_I e_I n_I d_I i_I r_I m_I e_I s_I i_E
+değerlendirmesi değerlendirmesi d_B e_I G_I e_I r_I l_I e_I n_I d_I i_I r_I m_I e_I s_I i_E
+değerlerinde değerlerinde d_B e:_I r_I l_I e_I r_I i_I n_I d_I e_E
+değerlerinde değerlerinde d_B e_I G_I e_I r_I l_I e_I r_I i_I n_I d_I e_E
+değerlerinin değerlerinin d_B e:_I r_I l_I e_I r_I i_I n_I i_I n_E
+değerlerinin değerlerinin d_B e_I G_I e_I r_I l_I e_I r_I i_I n_I i_I n_E
+değişiklik değişiklik d_B e_I G_I i_I S_I i_I c_I l_I i_I c_E
+değişiklik değişiklik d_B e_I j_I i_I S_I i_I c_I l_I i_I c_E
+değişiklik değişiklik d_B i:_I S_I i_I c_I l_I i_I c_E
+değişiklikler değişiklikler d_B e_I G_I i_I S_I i_I c_I l_I i_I c_I l_I e_I r_E
+değişiklikler değişiklikler d_B e_I j_I i_I S_I i_I c_I l_I i_I c_I l_I e_I r_E
+değişiklikler değişiklikler d_B i:_I S_I i_I c_I l_I i_I c_I l_I e_I r_E
+diafragma diafragma d_B i_I a_I f_I 1_I r_I a_I gj_I m_I a_E
+diafragma diafragma d_B i_I j_I a_I f_I 1_I r_I a_I gj_I m_I a_E
+diafragma diafragma d_B i_I j_I a_I f_I 1_I r_I a_I k_I m_I a_E
+diafragma diafragma d_B i_I j_I a_I f_I r_I a_I gj_I m_I a_E
+dizi dizi d_B i_I z_I i_E
+diüretik diüretik d_B i_I y_I r_I e_I t_I i_I k_E
+diğer diğer d_B i_I G_I e_I r_E
+diğer diğer d_B i_I j_I e_I r_E
+doku doku d_B o_I k_I u_E
+dokuz dokuz d_B o_I k_I u_I z_E
+dolduran dolduran d_B o_I 5_I d_I u_I r_I a_I n_E
+dolu dolu d_B o_I 5_I u_E
+dozluk dozluk d_B o_I z_I 5_I u_I k_E
+doğal doğal d_B o:_I a_I 5_E
+doğal doğal d_B o_I G_I a_I 5_E
+durum durum d_B u_I r_I u_I m_E
+durumda durumda d_B u_I r_I u_I m_I d_I a_E
+durumu durumu d_B u_I r_I u_I m_I u_E
+durumunda durumunda d_B u_I r_I u_I m_I u_I n_I d_I a_E
+duvar duvar d_B u_I w_I a_I r_E
+duvarında duvarında d_B u_I w_I a_I r_I 1_I n_I d_I a_E
+dört dört d_B 2_I r_I t_E
+düzenlendi düzenlendi d_B y_I z_I e_I n_I l_I e_I n_I d_I i_E
+düzenlendi düzenlendi d_B y_I z_I e_I n_I n_I e_I n_I d_I i_E
+düzenlenen düzenlenen d_B y_I z_I e_I n_I l_I e_I n_I e_I n_E
+düzenlenen düzenlenen d_B y_I z_I e_I n_I n_I e_I n_I e_I n_E
+düzenlenmesi düzenlenmesi d_B y_I z_I e_I n_I l_I e_I n_I m_I e_I s_I i_E
+düzenlenmesi düzenlenmesi d_B y_I z_I e_I n_I n_I e_I n_I m_I e_I s_I i_E
+düzenli düzenli d_B y_I z_I e_I n_I l_I i_E
+düzenli düzenli d_B y_I z_I e_I n_I n_I i_E
+düzgün düzgün d_B y_I z_I gj_I y_I n_E
+düzgündür düzgündür d_B y_I z_I gj_I y_I n_I d_I y_I r_E
+düşme düşme d_B y_I S_I m_I e_E
+düştüğü düştüğü d_B y_I S_I t_I y:_E
+düştüğü düştüğü d_B y_I S_I t_I y_I G_I y_E
+düşüklüğü düşüklüğü d_B y_I S_I y_I c_I l_I y:_E
+düşüklüğü düşüklüğü d_B y_I S_I y_I c_I l_I y_I G_I y_E
+düşüş düşüş d_B y_I S_I y_I S_E
+dışı dışı d_B 1_I S_I 1_E
+edildi edildi e_B d_I i_I l_I d_I i_E
+edilmediği edilmediği e_B d_I i_I l_I m_I e_I d_I i:_E
+edilmediği edilmediği e_B d_I i_I l_I m_I e_I d_I i_I G_I i_E
+edilmekte edilmekte e_B d_I i_I l_I m_I e_I c_I t_I e_E
+edilmesi edilmesi e_B d_I i_I l_I m_I e_I s_I i_E
+edilmesine edilmesine e_B d_I i_I l_I m_I e_I s_I i_I n_I e_E
+effüzyon effüzyon e_B f_I f_I y_I z_I j_I o_I n_E
+efüzyon efüzyon e_B f_I y_I z_I j_I o_I n_E
+ek ek e_B c_E
+ekg ekg e_B k_I a_I gj_I e_E
+eklenmiş eklenmiş e_B c_I l_I e_I n_I m_I i_I S_E
+eko eko e_B k_I o_E
+ekojenitesi ekojenitesi e_B k_I o_I Z_I e_I n_I i_I t_I e_I s_I i_E
+ekostrüktürü ekostrüktürü e_B k_I o_I s_I y_I t_I r_I y_I k_I t_I y_I r_I y_E
+ekostrüktürü ekostrüktürü e_B k_I o_I s_I y_I t_I y_I r_I y_I k_I t_I y_I r_I y_E
+ekspiratuvar ekspiratuvar e_B k_I s_I p_I i_I r_I a_I t_I u_I v_I a_I r_E
+elli elli e_B l_I l_I i_E
+en en e_B n_E
+enfeksiyon enfeksiyon e_B n_I f_I e_I c_I s_I i_I j_I o_I n_E
+enfeksiyonda enfeksiyonda e_B n_I f_I e_I c_I s_I i_I j_I o_I n_I d_I a_E
+eritrosit eritrosit e_B r_I i_I t_I r_I o_I s_I i_I t_E
+erken erken e_B r_I c_I e_I n_E
+eski eski e_B s_I c_I i_E
+esnasında esnasında e_B s_I n_I a_I s_I 1_I n_I d_I a_E
+etken etken e_B t_I c_I e_I n_E
+etmekte etmekte e_B t_I m_I e_I c_I t_I e_E
+etmesi etmesi e_B t_I m_I e_I s_I i_E
+evde evde e_B v_I d_I e_E
+evinde evinde e_B v_I i_I n_I d_I e_E
+expiratuvar expiratuvar e_B ks_I p_I i_I r_I a_I t_I u_I v_I a_I r_E
+extrahepatik extrahepatik e_B ks_I t_I r_I a_I h_I e_I p_I a_I t_I i_I k_E
+eğilimi eğilimi e_B G_I i_I l_I i_I m_I i_E
+eğilimi eğilimi e_B j_I i_I l_I i_I m_I i_E
+eğilimi eğilimi i:_B l_I i_I m_I i_E
+eğiliminde eğiliminde e_B G_I i_I l_I i_I m_I i_I n_I d_I e_E
+eğiliminde eğiliminde e_B j_I i_I l_I i_I m_I i_I n_I d_I e_E
+eğiliminde eğiliminde i:_B l_I i_I m_I i_I n_I d_I e_E
+eğiliminin eğiliminin e_B G_I i_I l_I i_I m_I i_I n_I i_I n_E
+eğiliminin eğiliminin e_B j_I i_I l_I i_I m_I i_I n_I i_I n_E
+eğiliminin eğiliminin i:_B l_I i_I m_I i_I n_I i_I n_E
+farhex farhex f_B a_I r_I h_I e_I ks_E
+farklılık farklılık f_B a_I r_I k_I 5_I 1_I 5_I 1_I k_E
+fibrotik fibrotik f_B i_I b_I r_I o_I t_I i_I k_E
+film film f_B i_I l_I m_E
+filmleriyle filmleriyle f_B i_I l_I m_I l_I e_I r_I i_I j_I l_I e_E
+fizik fizik f_B i_I z_I i_I c_E
+flakon flakon f_B 1_I 5_I a_I k_I o_I n_E
+flakon flakon f_B i_I 5_I a_I k_I o_I n_E
+flixotide flixotide f_B i_I 5_I i_I k_I s_I o_I t_I i_I d_I e_E
+formasyonları formasyonları f_B o_I r_I m_I a_I s_I j_I o_I n_I 5_I a_I r_I 1_E
+formasyonları formasyonları f_B o_I r_I m_I a_I s_I j_I o_I n_I n_I a_I r_I 1_E
+formda formda f_B o_I r_I m_I d_I a_E
+gargara gargara gj_B a_I r_I gj_I a_I r_I a_E
+gastroskopi gastroskopi gj_B a_I s_I t_I 1_I r_I o_I s_I k_I o_I p_I i_E
+gastroskopi gastroskopi gj_B a_I s_I t_I 1_I r_I o_I s_I k_I o_I p_I j_E
+gastroskopi gastroskopi gj_B a_I s_I t_I r_I o_I s_I k_I o_I p_I i_E
+geldiğinin geldiğinin gj_B e_I l_I d_I i:_I n_I i_I n_E
+geldiğinin geldiğinin gj_B e_I l_I d_I i_I G_I i_I n_I i_I n_E
+gelmesi gelmesi gj_B e_I l_I m_I e_I s_I i_E
+genel genel gj_B e_I n_I e_I l_E
+geniş geniş gj_B e_I n_I i_I S_E
+genişleme genişleme gj_B e_I n_I i_I S_I l_I e_I m_I e_E
+gerek gerek gj_B e_I r_I e_I c_E
+gerekse gerekse gj_B e_I r_I e_I c_I s_I e_E
+gerektirdiğine gerektirdiğine gj_B e_I r_I e_I c_I t_I i_I r_I d_I i:_I n_I e_E
+gerektirdiğine gerektirdiğine gj_B e_I r_I e_I c_I t_I i_I r_I d_I i_I G_I i_I n_I e_E
+gereği gereği gj_B e_I r_I e_I G_I i_E
+gereği gereği gj_B e_I r_I e_I j_I i_E
+gereği gereği gj_B e_I r_I i:_E
+gerilediği gerilediği gj_B e_I r_I i_I l_I e_I d_I i:_E
+gerilediği gerilediği gj_B e_I r_I i_I l_I e_I d_I i_I G_I i_E
+gerileme gerileme gj_B e_I r_I i_I l_I e_I m_I e_E
+gerilemiş gerilemiş gj_B e_I r_I i_I l_I e_I m_I i_I S_E
+gerileyen gerileyen gj_B e_I r_I i_I l_I e_I j_I e_I n_E
+getirilerek getirilerek gj_B e_I t_I i_I r_I i_I l_I e_I r_I e_I c_E
+geçmeyen geçmeyen gj_B e_I tS_I m_I e_I j_I e_I n_E
+gibi gibi gj_B i_I b_I i_E
+gland gland gj_B 1_I 5_I a_I n_I d_E
+glandda glandda gj_B 1_I 5_I a_I n_I d_E
+glandda glandda gj_B 1_I 5_I a_I n_I d_I a_E
+grafisinde grafisinde gj_B 1_I r_I a_I f_I i_I s_I i_I n_I d_I e_E
+göre göre gj_B 2_I r_I e_E
+görülebilir görülebilir gj_B 2_I r_I y_I l_I e_I b_I i_I l_I i_I r_E
+görülmediği görülmediği gj_B 2_I r_I y_I l_I m_I e_I d_I i:_E
+görülmediği görülmediği gj_B 2_I r_I y_I l_I m_I e_I d_I i_I G_I i_E
+görülmemiştir görülmemiştir gj_B 2_I r_I y_I l_I m_I e_I m_I i_I S_I t_I i_I r_E
+görülüyor görülüyor gj_B 2_I r_I y_I l_I y_I j_I o_E
+görülüyor görülüyor gj_B 2_I r_I y_I l_I y_I j_I o_I r_E
+görüntüler görüntüler gj_B 2_I r_I y_I n_I t_I y_I l_I e_I r_E
+görünüm görünüm gj_B 2_I r_I y_I n_I y_I m_E
+görünümdedir görünümdedir gj_B 2_I r_I y_I n_I y_I m_I d_I e_I d_I i_I r_E
+görünümleri görünümleri gj_B 2_I r_I y_I n_I y_I m_I l_I e_I r_I i_E
+görünümü görünümü gj_B 2_I r_I y_I n_I y_I m_I y_E
+gösteremediği gösteremediği gj_B 2_I s_I t_I e_I r_I e_I m_I e_I d_I i:_E
+gösteremediği gösteremediği gj_B 2_I s_I t_I e_I r_I e_I m_I e_I d_I i_I G_I i_E
+göğüs göğüs gj_B 2:_I y_I s_E
+göğüs göğüs gj_B 2_I G_I y_I s_E
+gün gün gj_B y_I n_E
+güncel güncel gj_B y_I n_I dZ_I e_I l_E
+hafif hafif h_B a_I f_I i_I f_E
+hale hale h_B a:_I l_I e_E
+hale hale h_B a_I l_I e_E
+halinde halinde h_B a:_I l_I i_I n_I d_I e_E
+halinde halinde h_B a_I l_I i_I n_I d_I e_E
+halsizlik halsizlik h_B a_I l_I s_I i_I z_I l_I i_I c_E
+hasta hasta h_B a_I s_I t_I a_E
+hastadan hastadan h_B a_I s_I t_I a_I d_I a_I n_E
+hastalıkları hastalıkları h_B a_I s_I t_I a_I 5_I 1_I k_I 5_I a_I r_I 1_E
+hastalıkta hastalıkta h_B a_I s_I t_I a_I 5_I 1_I k_I t_I a_E
+hastalığı hastalığı h_B a_I s_I t_I a_I 5_I 1:_E
+hastalığı hastalığı h_B a_I s_I t_I a_I 5_I 1_I G_I 1_E
+hastamızın hastamızın h_B a_I s_I t_I a_I m_I 1_I z_I 1_I n_E
+hastanın hastanın h_B a_I s_I t_I a_I n_I 1_I n_E
+hastaya hastaya h_B a_I s_I t_I a_I j_I a_E
+hattadır hattadır h_B a_I t_I t_I a_I d_I 1_I r_E
+hava hava h_B a_I v_I a_E
+havasında havasında h_B a_I v_I a_I s_I 1_I n_I d_I a_E
+hazımsızlık hazımsızlık h_B a_I z_I 1_I m_I s_I 1_I z_I 5_I 1_I k_E
+hemitoraksta hemitoraksta h_B e_I m_I i_I t_I o_I r_I a_I k_I s_I t_I a_E
+hemoglobin hemoglobin h_B e_I m_I o_I gj_I 5_I o_I b_I i_I n_E
+hemogramındaki hemogramındaki h_B e_I m_I o_I gj_I r_I a_I m_I 1_I n_I d_I a_I k_I i_E
+hemorajik hemorajik h_B e_I m_I o_I r_I a_I Z_I i_I k_E
+hepsi hepsi h_B e_I p_I s_I i_E
+her her h_B e_I r_E
+herni herni h_B e_I r_I n_I i_E
+hiatal hiatal h_B i_I a_I t_I a_I 5_E
+hiler hiler h_B i_I 5_I e_I r_E
+hilus hilus h_B i_I 5_I u_I s_E
+hiperat hiperat h_B i_I p_I e_I r_I a_I t_E
+hiperdens hiperdens h_B i_I p_I e_I r_I d_I e_I n_I s_E
+hipertansiyon hipertansiyon h_B i_I p_I e_I r_I t_I a_I n_I s_I i_I j_I o_I n_E
+hipodens hipodens h_B i_I p_I o_I d_I e_I n_I s_E
+hipokalemi hipokalemi h_B i_I p_I o_I k_I a_I 5_I e_I m_I i_E
+hipokaleminin hipokaleminin h_B i_I p_I o_I k_I a_I 5_I e_I m_I i_I n_I i_I n_E
+hiponatremi hiponatremi h_B i_I p_I o_I n_I a_I t_I r_I e_I m_I i_E
+hiponatremisinin hiponatremisinin h_B i_I p_I o_I n_I a_I t_I r_I e_I m_I i_I s_I i_I n_I i_I n_E
+homojen homojen h_B o_I m_I o_I Z_I e_I n_E
+hırıltılı hırıltılı h_B 1_I r_I 1_I 5_I t_I 1_I 5_I 1_E
+idame idame i_B d_I a_I m_I e_E
+identifikasyonuna identifikasyonuna i_B d_I e_I n_I t_I i_I f_I i_I k_I a_I s_I j_I o_I n_I u_I n_I a_E
+idrar idrar i_B d_I r_I a_I r_E
+iki iki i_B c_I i_E
+ilaçlar ilaçlar i_B l_I a_I tS_I 5_I a_I r_E
+ile ile i_B l_I e_E
+ileri ileri i_B l_I e_I r_I i_E
+ilgili ilgili i_B l_I gj_I i_I l_I i_E
+imajı imajı i_B m_I a_I Z_I 1_E
+ince ince i_B n_I dZ_I e_E
+inceleme inceleme i_B n_I dZ_I e_I l_I e_I m_I e_E
+incelemede incelemede i_B n_I dZ_I e_I l_I e_I m_I e_I d_I e_E
+inci inci i_B n_I dZ_I i_E
+infiltrasyon infiltrasyon i_B n_I f_I i_I 5_I t_I r_I a_I s_I j_I o_I n_E
+infiltrasyonlar infiltrasyonlar i_B n_I f_I i_I 5_I t_I r_I a_I s_I j_I o_I n_I 5_I a_I r_E
+inhalasyon inhalasyon i_B n_I h_I a_I 5_I a_I s_I j_I o_I n_E
+interlobüler interlobüler i_B n_I t_I e_I r_I 5_I o_I b_I y_I 5_I e_I r_E
+interstisyel interstisyel i_B n_I t_I e_I r_I s_I t_I i_I s_I j_I e_I 5_E
+intra intra i_B n_I t_I r_I a_E
+iprasal iprasal i_B p_I r_I a_I s_I a_I 5_E
+istenen istenen i_B s_I t_I e_I n_I e_I n_E
+istenmiş istenmiş i_B s_I t_I e_I n_I m_I i_I S_E
+izlendi izlendi i_B z_I l_I e_I n_I d_I i_E
+izlendiği izlendiği i_B z_I l_I e_I n_I d_I i:_E
+izlendiği izlendiği i_B z_I l_I e_I n_I d_I i_I G_I i_E
+izlenebildiği izlenebildiği i_B z_I l_I e_I n_I e_I b_I i_I l_I d_I i:_E
+izlenebildiği izlenebildiği i_B z_I l_I e_I n_I e_I b_I i_I l_I d_I i_I G_I i_E
+izlenen izlenen i_B z_I l_I e_I n_I e_I n_E
+izlenmediği izlenmediği i_B z_I l_I e_I n_I m_I e_I d_I i:_E
+izlenmediği izlenmediği i_B z_I l_I e_I n_I m_I e_I d_I i_I G_I i_E
+izlenmektedir izlenmektedir i_B z_I l_I e_I n_I m_I e_I c_I t_I e_I d_I i_I r_E
+izlenmiş izlenmiş i_B z_I l_I e_I n_I m_I i_I S_E
+izlenmiştir izlenmiştir i_B z_I l_I e_I n_I m_I i_I S_I t_I i_I r_E
+izolasyon izolasyon i_B z_I o_I 5_I a_I s_I j_I o_I n_E
+içeren içeren i_B tS_I e_I r_I e_I n_E
+için için i_B tS_I i_I n_E
+içinde içinde i_B tS_I i_I n_I d_I e_E
+içmiyor içmiyor i_B tS_I m_I i_I j_I o_E
+içmiyor içmiyor i_B tS_I m_I i_I j_I o_I r_E
+iştahsızlık iştahsızlık i_B S_I t_I a_I h_I s_I 1_I z_I 5_I 1_I k_E
+kabalaşmış kabalaşmış k_B a_I b_I a_I 5_I a_I S_I m_I 1_I S_E
+kadarıyla kadarıyla k_B a_I d_I a_I r_I 1_I j_I 5_I a_E
+kalisiyel kalisiyel k_B a_I 5_I i_I s_I i_I j_I e_I 5_E
+kalkül kalkül k_B a_I 5_I k_I y_I 5_E
+kalküller kalküller k_B a_I 5_I k_I y_I 5_I 5_I e_I r_E
+kallüs kallüs k_B a_I 5_I 5_I y_I s_E
+kalp kalp c_B a_I l_I p_E
+kalp kalp k_B a_I 5_I p_E
+kalsifik kalsifik k_B a_I 5_I s_I i_I f_I i_I k_E
+kalsifikasyonlar kalsifikasyonlar k_B a_I 5_I s_I i_I f_I i_I k_I a_I s_I j_I o_I n_I 5_I a_I r_E
+kalsifiye kalsifiye k_B a_I 5_I s_I i_I f_I i_I j_I e_E
+kalınlaşmalar kalınlaşmalar k_B a_I 5_I 1_I n_I 5_I a_I S_I m_I a_I 5_I a_I r_E
+kalınlaşmalar kalınlaşmalar k_B a_I 5_I 1_I n_I n_I a_I S_I m_I a_I 5_I a_I r_E
+kalınlık kalınlık k_B a_I 5_I 1_I n_I 5_I 1_I k_E
+kalınlık kalınlık k_B a_I 5_I 1_I n_I n_I 1_I k_E
+kalınlığı kalınlığı k_B a_I 5_I 1_I n_I 5_I 1:_E
+kalınlığı kalınlığı k_B a_I 5_I 1_I n_I 5_I 1_I G_I 1_E
+kalınlığı kalınlığı k_B a_I 5_I 1_I n_I n_I 1:_E
+kalınlığı kalınlığı k_B a_I 5_I 1_I n_I n_I 1_I G_I 1_E
+kan kan k_B a_I n_E
+kanaat kanaat k_B a_I n_I a_I a_I t_E
+kaplayan kaplayan k_B a_I p_I 5_I a_I j_I a_I n_E
+kaplayıcı kaplayıcı k_B a_I p_I 5_I a_I j_I 1_I dZ_I 1_E
+kaplı kaplı k_B a_I p_I 5_I 1_E
+karaciğer karaciğer k_B a_I r_I a_I dZ_I i_I G_I e_I r_E
+karaciğer karaciğer k_B a_I r_I a_I dZ_I i_I j_I e_I r_E
+karakterde karakterde k_B a_I r_I a_I k_I t_I e_I r_I d_I e_E
+karar karar k_B a_I r_I a_I r_E
+kardiyak kardiyak k_B a_I r_I d_I i_I j_I a_I k_E
+kardiyojenik kardiyojenik k_B a_I r_I d_I i_I j_I o_I Z_I e_I n_I i_I k_E
+kardiyoloji kardiyoloji k_B a_I r_I d_I i_I j_I o_I 5_I o_I Z_I i_E
+kardiyomegali kardiyomegali k_B a_I r_I d_I i_I j_I o_I m_I e_I gj_I a_I 5_I i_E
+karın karın c_B a:_I r_I 1_I n_E
+karın karın k_B a_I r_I 1_I n_E
+karşılaştırıldığında karşılaştırıldığında k_B a_I r_I S_I 1_I 5_I a_I S_I t_I 1_I r_I 1_I 5_I d_I 1:_I n_I d_I a_E
+karşılaştırıldığında karşılaştırıldığında k_B a_I r_I S_I 1_I 5_I a_I S_I t_I 1_I r_I 1_I 5_I d_I 1_I G_I 1_I n_I d_I a_E
+kendi kendi c_B e_I n_I d_I i_E
+kendine kendine c_B e_I n_I d_I i_I n_I e_E
+kese kese c_B e_I s_I e_E
+kesesi kesesi c_B e_I s_I e_I s_I i_E
+kesesinin kesesinin c_B e_I s_I e_I s_I i_I n_I i_I n_E
+keseyi keseyi c_B e_I s_I e_I j_I i_E
+kist kist c_B i_I s_I t_E
+kisti kisti c_B i_I s_I t_I i_E
+kitle kitle c_B i_I t_I l_I e_E
+klinik klinik c_B 1_I l_I i_I n_I i_I c_E
+kliniğine kliniğine k_B i_I l_I i_I n_I i:_I n_I e_E
+kliniğine kliniğine k_B i_I l_I i_I n_I i_I G_I i_I n_I e_E
+koleksiyonu koleksiyonu k_B o_I l_I e_I c_I s_I i_I j_I o_I n_I u_E
+komşuluğunda komşuluğunda k_B o_I m_I S_I u_I 5_I u:_I n_I d_I a_E
+komşuluğunda komşuluğunda k_B o_I m_I S_I u_I 5_I u_I G_I u_I n_I d_I a_E
+konsantratörü konsantratörü k_B o_I n_I s_I a_I n_I t_I r_I a_I t_I 2_I r_I y_E
+konsolidasyon konsolidasyon k_B o_I n_I s_I o_I l_I i_I d_I a_I s_I j_I o_I n_E
+konsulte konsulte k_B o_I n_I s_I u_I 5_I t_I e_E
+konsültasyon konsültasyon k_B o_I n_I s_I y_I l_I t_I a_I s_I j_I o_I n_E
+kontrast kontrast k_B o_I n_I t_I r_I a_I s_I t_E
+kontrastlanma kontrastlanma k_B o_I n_I t_I r_I a_I s_I t_I 5_I a_I n_I m_I a_E
+kontrastsız kontrastsız k_B o_I n_I t_I r_I a_I s_I t_I s_I 1_I z_E
+kontrol kontrol k_B o_I n_I t_I r_I o_I l_E
+kontrole kontrole k_B o_I n_I t_I r_I o_I l_I e_E
+kontrolü kontrolü k_B o_I n_I t_I r_I o_I l_I y_E
+kontrolüne kontrolüne k_B o_I n_I t_I r_I o_I l_I y_I n_I e_E
+konturları konturları k_B o_I n_I t_I u_I r_I 5_I a_I r_I 1_E
+konturludur konturludur k_B o_I n_I t_I u_I r_I 5_I u_I d_I u_I r_E
+kortikal kortikal k_B o_I r_I t_I i_I k_I a_I 5_E
+kostalarda kostalarda k_B o_I s_I t_I a_I 5_I a_I r_I d_I a_E
+koşullarında koşullarında k_B o_I S_I u_I 5_I 5_I a_I r_I 1_I n_I d_I a_E
+kronik kronik k_B 1_I r_I o_I n_I i_I c_E
+krusta krusta k_B 1_I r_I u_I s_I t_I a_E
+krusta krusta k_B u_I r_I u_I s_I t_I a_E
+krusunda krusunda k_B 1_I r_I u_I s_I u_I n_I d_I a_E
+kullanmakta kullanmakta k_B u_I 5_I 5_I a_I n_I m_I a_I k_I t_I a_E
+kullanımına kullanımına k_B u_I 5_I 5_I a_I n_I 1_I m_I 1_I n_I a_E
+kurallarına kurallarına k_B u_I r_I a_I 5_I 5_I a_I r_I 1_I n_I a_E
+kutu kutu k_B u_I t_I u_E
+kültüründe kültüründe c_B y_I l_I t_I y_I r_I y_I n_I d_I e_E
+kırk kırk k_B 1_I r_I k_E
+kırığa kırığa k_B 1_I r_I 1_I G_I a_E
+kırığa kırığa k_B 1_I r_I 1_I a_E
+kısa kısa k_B 1_I s_I a_E
+laboratuar laboratuar 5_B a_I b_I o_I r_I a_I t_I u_I a_I r_E
+laboratuar laboratuar 5_B a_I b_I o_I r_I a_I t_I u_I v_I a_I r_E
+laboratuar laboratuar 5_B a_I b_I r_I a_I t_I u_I a_I r_E
+laboratuar laboratuar 5_B a_I b_I r_I a_I t_I u_I v_I a_I r_E
+laboratuar laboratuar 5_B a_I b_I r_I o_I t_I u_I v_I a_I r_E
+lap lap l_B a_I p_E
+lateral lateral 5_B a_I t_I e_I r_I a_I 5_E
+laterobazal laterobazal 5_B a_I t_I e_I r_I o_I b_I a_I z_I a_I 5_E
+lehinde lehinde l_B e_I h_I i_I n_I d_I e_E
+lenf lenf l_B e_I n_I f_E
+levotiroksin levotiroksin 5_B e_I v_I o_I t_I i_I r_I o_I k_I s_I i_I n_E
+lezyon lezyon 5_B e_I z_I j_I o_I n_E
+lob lob 5_B o_I b_E
+lobda lobda 5_B o_I b_I d_I a_E
+loblarda loblarda 5_B o_I b_I 5_I a_I r_I d_I a_E
+lobta lobta 5_B o_I b_I t_I a_E
+lojunda lojunda 5_B o_I Z_I u_I n_I d_I a_E
+lokalizasyondadır lokalizasyondadır 5_B o_I k_I a_I 5_I i_I z_I a_I s_I j_I o_I n_I d_I a_I d_I 1_I r_E
+loküle loküle 5_B o_I k_I y_I 5_I e_E
+lümeninde lümeninde 5_B y_I m_I e_I n_I i_I n_I d_I e_E
+lümeninin lümeninin 5_B y_I m_I e_I n_I i_I n_I i_I n_E
+madde madde m_B a_I d_I d_I e_E
+malformasyon malformasyon m_B a_I 5_I f_I o_I r_I m_I a_I s_I j_I o_I n_E
+malzemeler malzemeler m_B a_I 5_I z_I e_I m_I e_I l_I e_I r_E
+manşet manşet m_B a_I n_I S_I e_I t_E
+me me m_B e_E
+mediasten mediasten m_B e_I d_I i_I a_I s_I t_I e_I n_E
+mediastende mediastende m_B e_I d_I i_I a_I s_I t_I e_I n_I d_I e_E
+mediastinal mediastinal m_B e_I d_I i_I a_I s_I t_I i_I n_I a_I 5_E
+mediastinal mediastinal m_B e_I d_I i_I j_I a_I s_I t_I i_I n_I a_I 5_E
+medikal medikal m_B e_I d_I i_I c_I a_I 5_E
+medikasyonu medikasyonu m_B e_I d_I i_I k_I a_I s_I j_I o_I n_I u_E
+medikasyonun medikasyonun m_B e_I d_I i_I k_I a_I s_I j_I o_I n_I u_I n_E
+medikasyonunun medikasyonunun m_B e_I d_I i_I k_I a_I s_I j_I o_I n_I u_I n_I u_I n_E
+mesane mesane m_B e_I s_I a_I n_I e_E
+metpamid metpamid m_B e_I t_I p_I a_I m_I i_I d_E
+mevcut mevcut m_B e_I v_I dZ_I u_I t_E
+mevcuttur mevcuttur m_B e_I v_I dZ_I u_I t_I t_I u_I r_E
+mezenterik mezenterik m_B e_I z_I e_I n_I t_I e_I r_I i_I k_E
+mg mg m_B e_I gj_I e_E
+mg mg m_B i_I 5_I gj_I r_I a_I m_E
+mg mg m_B i_I 5_I i_I gj_I 1_I r_I a_I m_E
+mg mg m_B i_I 5_I i_I gj_I r_I a_I m_E
+milimetrik milimetrik m_B i_I l_I i_I m_I e_I t_I r_I i_I c_E
+mm mm m_B m_E
+mobil mobil m_B o_I b_I i_I l_E
+mobilize mobilize m_B o_I b_I i_I 5_I i_I z_I e_E
+multiple multiple m_B a_I 5_I t_I i_I p_I 1_I 5_E
+multiple multiple m_B u_I 5_I t_I i_I p_I 1_I 5_E
+multislice multislice m_B a_I 5_I t_I i_I s_I 1_I 5_I a_I j_I s_E
+multislice multislice m_B u_I 5_I t_I i_I s_I 1_I 5_I a_I j_I s_E
+nabız nabız n_B a_I b_I 1_I z_E
+nakil nakil n_B a_I c_I i_I l_E
+nebules nebules n_B e_I b_I u_I 5_I e_I s_E
+nebulizasyon nebulizasyon n_B e_I b_I u_I 5_I i_I z_I a_I s_I j_I o_I n_E
+nedeni nedeni n_B e_I d_I e_I n_I i_E
+nefes nefes n_B e_I f_I e_I s_E
+negatif negatif n_B e_I gj_I a_I t_I i_I f_E
+net net n_B e_I t_E
+nodları nodları n_B o_I d_I 5_I a_I r_I 1_E
+nodu nodu n_B o_I d_I u_E
+nodül nodül n_B o_I d_I y_I 5_E
+nodüler nodüler n_B o_I d_I y_I 5_I e_I r_E
+nodüllerde nodüllerde n_B o_I d_I y_I 5_I 5_I e_I r_I d_I e_E
+nonspesifiktir nonspesifiktir n_B o_I n_I s_I 1_I p_I e_I s_I i_I f_I i_I k_I t_I i_I r_E
+nonspesifiktir nonspesifiktir n_B o_I n_I s_I i_I p_I e_I s_I i_I f_I i_I k_I t_I i_I r_E
+normal normal n_B o_I r_I m_I a_I 5_E
+normalden normalden n_B o_I r_I m_I a_I 5_I d_I e_I n_E
+normaldir normaldir n_B o_I r_I m_I a_I 5_I d_I i_I r_E
+notları notları n_B o_I t_I 5_I a_I r_I 1_E
+notu notu n_B o_I t_I u_E
+notuss notuss n_B o_I t_I u_I s_I s_E
+nt-probnp nt-probnp n_B e_I t_I e_I p_I 1_I r_I o_I b_I e_I n_I e_I b_I e_E
+nt-probnp nt-probnp n_B e_I t_I e_I p_I u_I r_I o_I b_I e_I n_I e_I p_I e_E
+oda oda o_B d_I a_E
+odansite odansite o_B d_I a_I n_I s_I i_I t_I e_E
+oksijen oksijen o_B k_I s_I i_I Z_I e_I n_E
+oksimetre oksimetre o_B k_I s_I i_I m_I e_I t_I r_I e_E
+olabilecek olabilecek o_B 5_I a_I b_I i_I l_I e_I dZ_I e_I c_E
+olabiliyor olabiliyor o_B 5_I a_I b_I i_I l_I i_I j_I o_E
+olabiliyor olabiliyor o_B 5_I a_I b_I i_I l_I i_I j_I o_I r_E
+olacağı olacağı o_B 5_I a_I dZ_I a:_E
+olacağı olacağı o_B 5_I a_I dZ_I a_I 1_E
+olacağı olacağı o_B 5_I a_I dZ_I a_I G_I 1_E
+olamıyormuş olamıyormuş o_B 5_I a_I m_I 1_I j_I o_I m_I u_I S_E
+olamıyormuş olamıyormuş o_B 5_I a_I m_I 1_I j_I o_I r_I m_I u_I S_E
+olan olan o_B 5_I a_I n_E
+olarak olarak o_B 5_I a_I r_I a_I k_E
+olası olası o_B 5_I a_I s_I 1_E
+oldukça oldukça o_B 5_I d_I u_I k_I tS_I a_E
+olduğu olduğu o_B 5_I d_I u:_E
+olduğu olduğu o_B 5_I d_I u_I G_I u_E
+olduğunu olduğunu o_B 5_I d_I u:_I n_I u_E
+olduğunu olduğunu o_B 5_I d_I u_I G_I u_I n_I u_E
+olduğunun olduğunun o_B 5_I d_I u:_I n_I u_I n_E
+olduğunun olduğunun o_B 5_I d_I u_I G_I u_I n_I u_I n_E
+olmak olmak o_B 5_I m_I a_I k_E
+olması olması o_B 5_I m_I a_I s_I 1_E
+olmazsa olmazsa o_B 5_I m_I a_I z_I s_I a_E
+olup olup o_B 5_I u_I p_E
+on on o_B n_E
+orta orta o_B r_I t_I a_E
+oskültasyon oskültasyon o_B s_I k_I y_I 5_I t_I a_I s_I j_I o_I n_E
+otuz otuz o_B t_I u_I z_E
+oval oval o_B v_I a_I 5_E
+ovoid ovoid o_B v_I o_I i_I d_E
+ovoid ovoid o_B v_I o_I j_I i_I d_E
+ovoid ovoid o_B v_I o_I j_I i_I t_E
+pankreas pankreas p_B a_I n_I k_I r_I e_I a_I s_E
+parakardiak parakardiak p_B a_I r_I a_I k_I a_I r_I d_I i_I a_I k_E
+parankim parankim p_B a_I r_I a_I n_I k_I i_I m_E
+parankimal parankimal p_B a_I r_I a_I n_I k_I i_I m_I a_I 5_E
+parankiminde parankiminde p_B a_I r_I a_I n_I k_I i_I m_I i_I n_I d_I e_E
+paratrakeal paratrakeal p_B a_I r_I a_I t_I 1_I r_I a_I k_I e_I a_I 5_E
+paratrakeal paratrakeal p_B a_I r_I a_I t_I 1_I r_I a_I k_I e_I j_I a_I 5_E
+patoloji patoloji p_B a_I t_I o_I 5_I o_I Z_I i_E
+patolojik patolojik p_B a_I t_I o_I 5_I o_I Z_I i_I c_E
+pcr pcr p_B i:_I s_I i:_I a_I r_E
+pelvik pelvik p_B e_I 5_I v_I i_I k_E
+performansı performansı p_B e_I r_I f_I o_I r_I m_I a_I n_I s_I 1_E
+peribronşial peribronşial p_B e_I r_I i_I b_I 1_I r_I o_I n_I S_I i_I a_I 5_E
+peribronşial peribronşial p_B e_I r_I i_I b_I 1_I r_I o_I n_I S_I i_I j_I a_I 5_E
+peribronşial peribronşial p_B e_I r_I i_I b_I u_I r_I o_I n_I S_I i_I a_I 5_E
+peribronşial peribronşial p_B e_I r_I i_I b_I u_I r_I o_I n_I S_I i_I j_I a_I 5_E
+perika perika p_B e_I r_I i_I k_I a_E
+perikardial perikardial p_B e_I r_I i_I k_I a_I r_I d_I i_I a_I 5_E
+perikardiyal perikardiyal p_B e_I r_I i_I k_I a_I r_I d_I i_I j_I a_I 5_E
+peteği peteği p_B e_I t_I e_I G_I i_E
+peteği peteği p_B e_I t_I e_I j_I i_E
+peteği peteği p_B e_I t_I i:_E
+plakları plakları p_B i_I 5_I a_I k_I 5_I a_I r_I 1_E
+planda planda p_B i_I 5_I a_I n_I d_I a_E
+plevra plevra p_B 1_I l_I e_I v_I r_I a_E
+plevral plevral p_B i_I 5_I e_I v_I r_I a_I 5_E
+pnömonisinde pnömonisinde p_B i_I n_I 2_I m_I o_I n_I i_I s_I i_I n_I d_I e_E
+pnömonisinde pnömonisinde p_B y_I n_I 2_I m_I o_I n_I i_I s_I i_I n_I d_I e_E
+pol pol p_B o_I 5_E
+porselen porselen p_B o_I r_I s_I e_I l_I e_I n_E
+posterior posterior p_B o_I s_I t_I e_I r_I i_I j_I o_I r_E
+posterior posterior p_B o_I s_I t_I e_I r_I i_I o_I r_E
+potasyum potasyum p_B o_I t_I a_I s_I j_I u_I m_E
+pozitif pozitif p_B o_I z_I i_I t_I i_I f_E
+prednol prednol p_B 1_I r_I e_I d_I n_I o_I 5_E
+prednol prednol p_B i_I r_I e_I d_I n_I o_I 5_E
+pretibial pretibial p_B i_I r_I e_I t_I i_I b_I i_I a_I 5_E
+pretibial pretibial p_B i_I r_I e_I t_I i_I b_I i_I j_I a_I 5_E
+progas progas p_B 1_I r_I o_I gj_I a_I s_E
+progas progas p_B u_I r_I o_I gj_I a_I s_E
+progresyon progresyon p_B 1_I r_I o_I gj_I r_I e_I s_I j_I o_I n_E
+progresyon progresyon p_B 1_I r_I o_I k_I r_I e_I s_I j_I o_I n_E
+pulmoner pulmoner p_B u_I 5_I m_I o_I n_I e_I r_E
+pulse pulse p_B u_I 5_I s_I e_E
+pırat pırat p_B 1_I r_I a_I t_E
+radyoloji radyoloji r_B a_I d_I j_I o_I 5_I o_I Z_I i_E
+radyolojik radyolojik r_B a_I d_I j_I o_I 5_I o_I Z_I i_I k_E
+rahat rahat r_B a_I h_I a_I t_E
+ralleri ralleri r_B a_I 5_I 5_I e_I r_I i_E
+raporlandı raporlandı r_B a_I p_I o_I r_I 5_I a_I n_I d_I 1_E
+raporlandığı raporlandığı r_B a_I p_I o_I r_I 5_I a_I n_I d_I 1:_E
+raporlandığı raporlandığı r_B a_I p_I o_I r_I 5_I a_I n_I d_I 1_I G_I 1_E
+refakatli refakatli r_B e_I f_I a_I k_I a_I t_I l_I i_E
+refcon refcon r_B e_I f_I k_I o_I n_E
+regresyon regresyon r_B e_I gj_I r_I e_I s_I j_I o_I n_E
+rekonsültasyonu rekonsültasyonu r_B e_I k_I o_I n_I s_I y_I 5_I t_I a_I s_I j_I o_I n_I u_E
+renal renal r_B e_I n_I a_I 5_E
+replasmanı replasmanı r_B e_I p_I 5_I a_I s_I m_I a_I n_I 1_E
+retiküler retiküler r_B e_I t_I i_I k_I y_I 5_I e_I r_E
+reçete reçete r_B e_I tS_I e_I t_I e_E
+ronküs ronküs r_B o_I n_I k_I y_I s_E
+ronküsleri ronküsleri r_B o_I n_I k_I y_I s_I 5_I e_I r_I i_E
+safra safra s_B a_I f_I r_I a_E
+santral santral s_B a_I n_I t_I r_I a_I 5_E
+saptanmadı saptanmadı s_B a_I p_I t_I a_I n_I m_I a_I d_I 1_E
+saptanmamıştır saptanmamıştır s_B a_I p_I t_I a_I n_I m_I a_I m_I 1_I S_I t_I 1_I r_E
+sat sat s_B a_I t_E
+satürasyon satürasyon s_B a_I t_I y_I r_I a_I s_I j_I o_I n_E
+satürasyonu satürasyonu s_B a_I t_I y_I r_I a_I s_I j_I o_I n_I u_E
+sayıda sayıda s_B a_I j_I 1_I d_I a_E
+sağ sağ s_B a:_E
+sağ sağ s_B a_I G_E
+sağda sağda s_B a:_I d_I a_E
+sağda sağda s_B a_I G_I d_I a_E
+sağlanarak sağlanarak s_B a:_I 5_I a_I n_I a_I r_I a_I k_E
+sağlanarak sağlanarak s_B a_I G_I 5_I a_I n_I a_I r_I a_I k_E
+sağlandı sağlandı s_B a:_I 5_I a_I n_I d_I 1_E
+sağlandı sağlandı s_B a_I G_I 5_I a_I n_I d_I 1_E
+sağlandığı sağlandığı s_B a:_I 5_I a_I n_I d_I 1:_E
+sağlandığı sağlandığı s_B a_I G_I 5_I a_I n_I d_I 1_I G_I 1_E
+sebebi sebebi s_B e_I b_I e_I b_I i_E
+segment segment s_B e_I gj_I m_I e_I n_I t_E
+segmentlerde segmentlerde s_B e_I gj_I m_I e_I n_I t_I 5_I e_I r_I d_I e_E
+segmentlerinde segmentlerinde s_B e_I gj_I m_I e_I n_I t_I 5_I e_I r_I i_I n_I d_I e_E
+segmentte segmentte s_B e_I gj_I m_I e_I n_I t_I t_I e_E
+sekel sekel s_B e_I k_I e_I 5_E
+sekiz sekiz s_B e_I c_I i_I z_E
+semptomatik semptomatik s_B e_I m_I p_I t_I o_I m_I a_I t_I i_I k_E
+septalarda septalarda s_B e_I p_I t_I a_I 5_I a_I r_I d_I a_E
+serbest serbest s_B e_I r_I b_I e_I s_I t_E
+servisimizde servisimizde s_B e_I r_I v_I i_I s_I i_I m_I i_I z_I d_I e_E
+servisinde servisinde s_B e_I r_I v_I i_I s_I i_I n_I d_I e_E
+servisine servisine s_B e_I r_I v_I i_I s_I i_I n_I e_E
+sesleri sesleri s_B e_I s_I l_I e_I r_I i_E
+seviyede seviyede s_B e_I v_I i_I j_I e_I d_I e_E
+seyir seyir s_B e_I j_I i_I r_E
+seyretmekte seyretmekte s_B e_I j_I r_I e_I t_I m_I e_I c_I t_I e_E
+sft sft e_B s_I e_I f_I t_I i:_E
+sft sft s_B e_I f_I e_I t_I e_E
+si si s_B i_E
+sigara sigara s_B i_I gj_I a_I r_I a_E
+sinde sinde s_B i_I n_I d_I e_E
+sinin sinin s_B i_I n_I i_I n_E
+sistem sistem s_B i_I s_I t_I e_I m_E
+sistemde sistemde s_B i_I s_I t_I e_I m_I d_I e_E
+skapula skapula s_B 1_I k_I a_I p_I u_I 5_I a_E
+skapula skapula s_B i_I k_I a_I p_I u_I 5_I a_E
+skapula skapula s_B k_I a_I p_I u_I 5_I a_E
+skapula skapula s_B u_I k_I a_I p_I u_I 5_I a_E
+sol sol s_B o_I 5_E
+sol sol s_B o_I l_E
+solda solda s_B o_I 5_I d_I a_E
+solid solid s_B o_I 5_I i_I d_E
+solunum solunum s_B o_I 5_I u_I n_I u_I m_E
+solunumu solunumu s_B o_I 5_I u_I n_I u_I m_I u_E
+sonda sonda s_B o_I n_I d_I a_E
+sonografik sonografik s_B o_I n_I o_I gj_I r_I a_I f_I i_I k_E
+sonra sonra s_B o_I n_I r_I a_E
+sonucunda sonucunda s_B o_I n_I u_I dZ_I u_I n_I d_I a_E
+sonucunun sonucunun s_B o_I n_I u_I dZ_I u_I n_I u_I n_E
+sonuçlarla sonuçlarla s_B o_I n_I u_I tS_I 5_I a_I r_I 5_I a_E
+stabil stabil s_B 1_I t_I a_I b_I i_I 5_E
+subkarinal subkarinal s_B u_I b_I k_I a_I r_I i_I n_I a_I 5_E
+suboptimaldir suboptimaldir s_B u_I b_I o_I p_I t_I i_I m_I a_I 5_I d_I i_I r_E
+subplevral subplevral s_B a_I p_I p_I i_I 5_I e_I v_I r_I a_I 5_E
+subplevral subplevral s_B u_I b_I p_I i_I 5_I e_I v_I r_I a_I 5_E
+subsegmental subsegmental s_B u_I b_I s_I e_I gj_I m_I e_I n_I t_I a_I 5_E
+subsegmenter subsegmenter s_B u_I b_I s_I e_I gj_I m_I e_I n_I t_I e_I r_E
+sulbaktam sulbaktam s_B u_I 5_I b_I a_I k_I t_I a_I m_E
+sürrenal sürrenal s_B y_I r_I r_I e_I n_I a_I 5_E
+süspansiyonu süspansiyonu s_B y_I s_I p_I a_I n_I s_I i_I j_I o_I n_I u_E
+sıfır sıfır s_B 1_I f_I 1_I r_E
+sıvı sıvı s_B 1_I v_I 1_E
+ta ta t_B a_E
+tabanlı tabanlı t_B a_I b_I a_I n_I 5_I 1_E
+tabanlı tabanlı t_B a_I b_I a_I n_I n_I 1_E
+tabii tabii t_B a_I b_I i_I i_E
+tabiidir tabiidir t_B a_I b_I i_I i_I d_I i_I r_E
+tablet tablet t_B a_I b_I l_I e_I t_E
+taburcu taburcu t_B a_I b_I u_I r_I dZ_I u_E
+taburculuk taburculuk t_B a_I b_I u_I r_I dZ_I u_I 5_I u_I k_E
+tak tak t_B a_I k_E
+takibi takibi t_B a_I c_I i_I b_I i_E
+takibinde takibinde t_B a_I c_I i_I b_I i_I n_I d_I e_E
+takibine takibine t_B a_I c_I i_I b_I i_I n_I e_E
+talebinde talebinde t_B a_I l_I e_I b_I i_I n_I d_I e_E
+tamamen tamamen t_B a_I m_I a_I m_I e_I n_E
+tamamlanarak tamamlanarak t_B a_I m_I a_I m_I 5_I a_I n_I a_I r_I a_I k_E
+tansiyon tansiyon t_B a_I n_I s_I i_I j_I o_I n_E
+taraftan taraftan t_B a_I r_I a_I f_I t_I a_I n_E
+tarafından tarafından t_B a_I r_I a_I f_I 1_I n_I d_I a_I n_E
+tarifliyor tarifliyor t_B a_I r_I i_I f_I 5_I i_I j_I o_I r_E
+tarihinde tarihinde t_B a_I r_I i_I h_I i_I n_I d_I e_E
+tarihleri tarihleri t_B a_I r_I i_I h_I l_I e_I r_I i_E
+tarihli tarihli t_B a_I r_I i_I h_I l_I i_E
+tarzda tarzda t_B a_I r_I z_I d_I a_E
+tedavi tedavi t_B e_I d_I a_I v_I i_E
+tedavisi tedavisi t_B e_I d_I a_I v_I i_I s_I i_E
+tedavisine tedavisine t_B e_I d_I a_I v_I i_I s_I i_I n_I e_E
+tek tek t_B e_I c_E
+teknik teknik t_B e_I c_I n_I i_I c_E
+tekrarlayıcı tekrarlayıcı t_B e_I c_I r_I a_I r_I 5_I a_I j_I 1_I dZ_I 1_E
+temel temel t_B e_I m_I e_I l_E
+tespit tespit t_B e_I s_I p_I i_I t_E
+testi testi t_B e_I s_I t_I i_E
+tetkik tetkik t_B e_I t_I c_I i_I c_E
+tetkikler tetkikler t_B e_I t_I c_I i_I c_I l_I e_I r_E
+tetkikleri tetkikleri t_B e_I t_I c_I i_I c_I l_I e_I r_I i_E
+tiroid tiroid t_B 1_I r_I o_I i_I d_E
+tiroid tiroid t_B 1_I r_I o_I j_I i_I d_E
+tiroid tiroid t_B i_I r_I o_I i_I d_E
+tiroid tiroid t_B i_I r_I o_I j_I i_I d_E
+tit tit t_B i_I t_E
+toraks toraks t_B o_I r_I a_I k_I s_E
+trakea trakea t_B 1_I r_I a_I k_I e_I a_E
+trakea trakea t_B 1_I r_I a_I k_I e_I j_I a_E
+trans trans t_B 1_I r_I a_I n_I s_E
+transfüze transfüze t_B 1_I r_I a_I n_I s_I f_I y_I z_I e_E
+transtorasik transtorasik t_B 1_I r_I a_I n_I s_I t_I o_I r_I a_I s_I i_I k_E
+troponin troponin t_B 1_I r_I o_I p_I o_I n_I i_I n_E
+trunkus trunkus t_B u_I r_I u_I n_I k_I u_I s_E
+tüm tüm t_B y_I m_E
+usg usg j_B u_I e_I s_I dZ_I i_E
+usg usg u:_B s_I e_I gj_I e_E
+uygulanan uygulanan u_B j_I gj_I u_I 5_I a_I n_I a_I n_E
+uygun uygun u_B j_I gj_I u_I n_E
+uyması uyması u_B j_I m_I a_I s_I 1_E
+uyuldu uyuldu u_B j_I u_I 5_I d_I u_E
+uyum uyum u_B j_I u_I m_E
+uyumlu uyumlu u_B j_I u_I m_I 5_I u_E
+vasküler vasküler v_B a_I s_I k_I y_I 5_I e_I r_E
+ve ve v_B e_E
+verildi verildi v_B e_I r_I i_I l_I d_I i_E
+verilmediği verilmediği v_B e_I r_I i_I l_I m_I e_I d_I i:_E
+verilmediği verilmediği v_B e_I r_I i_I l_I m_I e_I d_I i_I G_I i_E
+veya veya v_B e_I j_I a_E
+vücut vücut v_B y_I dZ_I u_I t_E
+yakınlarının yakınlarının j_B a_I k_I 1_I n_I 5_I a_I r_I 1_I n_I 1_I n_E
+yakınlarının yakınlarının j_B a_I k_I 1_I n_I n_I a_I r_I 1_I n_I 1_I n_E
+yamalı yamalı j_B a_I m_I a_I 5_I 1_E
+yan yan j_B a_I n_E
+yaprakları yaprakları j_B a_I p_I r_I a_I k_I 5_I a_I r_I 1_E
+yapılan yapılan j_B a_I p_I 1_I 5_I a_I n_E
+yapıların yapıların j_B a_I p_I 1_I 5_I a_I r_I 1_I n_E
+yapıldı yapıldı j_B a_I p_I 1_I 5_I d_I 1_E
+yapılması yapılması j_B a_I p_I 1_I 5_I m_I a_I s_I 1_E
+yardımsız yardımsız j_B a_I r_I d_I 1_I m_I s_I 1_I z_E
+yastıkcığında yastıkcığında j_B a_I s_I t_I 1_I k_I dZ_I 1_I G_I 1_I n_I d_I a_E
+yatırıldı yatırıldı j_B a_I t_I 1_I r_I 1_I 5_I d_I 1_E
+yatışı yatışı j_B a_I t_I 1_I S_I 1_E
+yaygın yaygın j_B a_I j_I gj_I 1_I n_E
+yağ yağ j_B a:_E
+yağ yağ j_B a_I G_E
+yaşı yaşı j_B a_I S_I 1_E
+ye ye j_B e_E
+yedi yedi j_B e_I d_I i_E
+yeni yeni j_B e_I n_I i_E
+yeniden yeniden j_B e_I n_I i_I d_I e_I n_E
+yer yer j_B e_I r_E
+yerinde yerinde j_B e_I r_I i_I n_I d_I e_E
+yerleşimli yerleşimli j_B e_I r_I l_I e_I S_I i_I m_I l_I i_E
+yirmi yirmi j_B i_I r_I m_I i_E
+yoktur yoktur j_B o_I k_I t_I u_I r_E
+yollarında yollarında j_B o_I 5_I 5_I a_I r_I 1_I n_I d_I a_E
+yoğun yoğun j_B o:_I u_I n_E
+yoğun yoğun j_B o_I G_I u_I n_E
+yumuşak yumuşak j_B u_I m_I u_I S_I a_I k_E
+yönelik yönelik j_B 2_I n_I e_I l_I i_I c_E
+yüksek yüksek j_B y_I c_I s_I e_I c_E
+yüksekliği yüksekliği j_B y_I c_I s_I e_I c_I l_I i:_E
+yüksekliği yüksekliği j_B y_I c_I s_I e_I c_I l_I i_I G_I i_E
+yükseldiği yükseldiği j_B y_I c_I s_I e_I l_I d_I i:_E
+yükseldiği yükseldiği j_B y_I c_I s_I e_I l_I d_I i_I G_I i_E
+yükselme yükselme j_B y_I c_I s_I e_I l_I m_I e_E
+zaten zaten z_B a_I t_I e_I n_E
+zofer zofer z_B o_I f_I e_I r_E
+zonlarda zonlarda z_B o_I n_I 5_I a_I r_I d_I a_E
+çapı çapı tS_B a_I p_I 1_E
+çapında çapında tS_B a_I p_I 1_I n_I d_I a_E
+çarpı çarpı tS_B a_I r_I p_I 1_E
+çekintiler çekintiler tS_B e_I c_I i_I n_I t_I i_I l_I e_I r_E
+çevresinde çevresinde tS_B e_I v_I r_I e_I s_I i_I n_I d_I e_E
+çok çok tS_B o_I k_E
+çözeltisi çözeltisi tS_B 2_I z_I e_I l_I t_I i_I s_I i_E
+çıkan çıkan tS_B 1_I k_I a_I n_E
+çıkardığı çıkardığı tS_B 1_I k_I a_I r_I d_I 1:_E
+çıkardığı çıkardığı tS_B 1_I k_I a_I r_I d_I 1_I G_I 1_E
+ödem ödem 2_B d_I e_I m_E
+öksürük öksürük 2_B c_I s_I y_I r_I y_I c_E
+ölçülen ölçülen 2_B l_I tS_I y_I l_I e_I n_E
+ölçülmüş ölçülmüş 2_B l_I tS_I y_I l_I m_I y_I S_E
+ön ön 2_B n_E
+önceden önceden 2_B n_I dZ_I e_I d_I e_I n_E
+önerilere önerilere 2_B n_I e_I r_I i_I l_I e_I r_I e_E
+önerilerine önerilerine 2_B n_I e_I r_I i_I l_I e_I r_I i_I n_I e_E
+önerilir önerilir 2_B n_I e_I r_I i_I l_I i_I r_E
+öyküsü öyküsü 2_B j_I c_I y_I s_I y_E
+öğrenildi öğrenildi 2:_B r_I e_I n_I i_I l_I d_I i_E
+öğrenildi öğrenildi 2_B G_I r_I e_I n_I i_I l_I d_I i_E
+ünite ünite y_B n_I i_I t_I e_E
+üre-kreatinin üre-kreatinin y_B r_I e_I k_I r_I e_I a_I t_I i_I n_I i_I n_E
+üst üst y_B s_I t_E
+üzere üzere y_B z_I e_I r_I e_E
+üzerine üzerine y_B z_I e_I r_I i_I n_I e_E
+üç üç y_B tS_E
+ısrarlı ısrarlı 1_B s_I r_I a_I r_I 5_I 1_E
+ıv ıv 1_B v_I e_E
+ıv ıv a_B j_I v_I i:_E
+şekel şekel S_B e_I k_I e_I 5_E
+şekeri şekeri S_B e_I c_I e_I r_I i_E
+şekilde şekilde S_B e_I c_I i_I l_I d_I e_E
+şekilli şekilli S_B e_I c_I i_I l_I l_I i_E
+şeklinde şeklinde S_B e_I c_I l_I i_I n_I d_I e_E
+şikayet şikayet S_B i_I c_I a_I j_I e_I t_E
+şikayeti şikayeti S_B i_I c_I a_I j_I e_I t_I i_E
+şikayetleri şikayetleri S_B i_I c_I a_I j_I e_I t_I l_I e_I r_I i_E
+şikayetlerinin şikayetlerinin S_B i_I c_I a_I j_I e_I t_I l_I e_I r_I i_I n_I i_I n_E
+şişlik şişlik S_B i_I S_I l_I i_I c_E
